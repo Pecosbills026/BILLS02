@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="MEX-ADN 40 (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="MEXICO-LOCAL",MEX-ADN 40 (W) [Geo-bloc](720)
+#EXTINF:-1 tvg-id="" tvg-name="MEX-ADN 40 (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="MEXICO",MEX-ADN 40 (W) [Geo-bloc](720)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/87678
 #EXTINF:-1 tvg-id="" tvg-name="MEX-Azteca UNO (L)(720)" tvg-logo="https://1.bp.blogspot.com/-rCbIcWgf8KM/Xm54--dqL2I/AAAAAAAABjA/WfovYd6uNOMJFVGwof8uwuxEN4lHorZ_gCLcBGAsYHQ/s200/30.png" group-title="MEXICO",MEX-Azteca UNO (L)(720)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/87576
@@ -13,16 +13,16 @@ http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/87570
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/87579
 #EXTINF:-1 tvg-id="" tvg-name="MEX_Las Estrellas -2hr (M)(720)" tvg-logo="https://1.bp.blogspot.com/-e2wz8A8TfGM/Xm56KL_9AVI/AAAAAAAABjU/Ukz1VU_TSlAuHvW8BFmY7kgneq_wuU80QCLcBGAsYHQ/s200/32.png" group-title="MEXICO",MEX_Las Estrellas -2hr (M)(720)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/87581
-#EXTINF:-1 tvg-id="" tvg-name="MEX-AZ Cinema (M)(720)" tvg-logo="https://1.bp.blogspot.com/--fcykTIfCuM/Xm5wXqrCohI/AAAAAAAABgo/SG1Fhjw4qfwahRTffNn7aqsPxHr7h8YMwCLcBGAsYHQ/s200/19.png" group-title="MEXICO",MEX-AZ Cinema (M)(720)
+#EXTINF:-1 tvg-id="" tvg-name="MEX-AZ Cinema (M)(720)" tvg-logo="https://1.bp.blogspot.com/--fcykTIfCuM/Xm5wXqrCohI/AAAAAAAABgo/SG1Fhjw4qfwahRTffNn7aqsPxHr7h8YMwCLcBGAsYHQ/s200/19.png" group-title="CINE",CINE - AZTECA CINEMA
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/87585
 #EXTINF:-1 tvg-id="" tvg-name="MEX-Canal 5 (L)(SD)" tvg-logo="https://1.bp.blogspot.com/-MmJ4TgLhKa0/Xm5o4_B3H8I/AAAAAAAABeQ/b7jztTDAi5g7UDvJLofwH1KNMZmv0OvGwCLcBGAsYHQ/s200/12.png" group-title="MEXICO",MEX-Canal 5 (L)(SD)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/87597
 #EXTINF:-1 tvg-id="" tvg-name="MEX-Canal 5 (L)(720)" tvg-logo="https://1.bp.blogspot.com/-MmJ4TgLhKa0/Xm5o4_B3H8I/AAAAAAAABeQ/b7jztTDAi5g7UDvJLofwH1KNMZmv0OvGwCLcBGAsYHQ/s200/12.png" group-title="MEXICO",MEX-Canal 5 (L)(720)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/87598
 
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Azteca Deportes (L)(SD)" tvg-logo="https://i.postimg.cc/sx2Qs4zp/Azteca-Deportes.png" group-title="MEXICO",MEX-Azteca Deportes (L)(SD)
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Azteca Deportes (L)(SD)" tvg-logo="https://i.postimg.cc/sx2Qs4zp/Azteca-Deportes.png" group-title="CANALES-DEPORTES",DEPORTES - Azteca Deportes (L)(720)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/87573
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Azteca Deportes (L)(720)" tvg-logo="https://i.postimg.cc/sx2Qs4zp/Azteca-Deportes.png" group-title="MEXICO",MEX-Azteca Deportes (L)(720)
+#EXTINF:-1 tvg-id="" tvg-name="MEX-Azteca Deportes (L)(720)" tvg-logo="https://i.postimg.cc/sx2Qs4zp/Azteca-Deportes.png" group-title="CANALES-DEPORTES",DEPORTES - Azteca Deportes (L)(720)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/87574
 #EXTINF:-1 tvg-id="ESPN.(Mexico).(ESPMX).mx" tvg-name="DEPORTES - Espn 1 MEX (L)(720)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 1 MEX (L)(720)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9523
@@ -61,7 +61,7 @@ http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/87590
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 El Chavo del Ocho HQ (e)" tvg-logo="" group-title="24/7 SERIES COMEDIAS",24/7 El Chavo del Ocho HQ (e)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/94852
-#EXTINF:-1 tvg-id="" tvg-name="24/7 El Chapulin Colorado (e)" tvg-logo="" group-title="24/7 SERIES JUVENILES",24/7 El Chapulin Colorado (e)
+#EXTINF:-1 tvg-id="" tvg-name="24/7 El Chapulin Colorado (e)" tvg-logo="" group-title="24/7 SERIES COMEDIAS",24/7 El Chavo del Ocho HQ (e)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/95639
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Cantinflas (e)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Cantinflas (e)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/95617
@@ -70,163 +70,163 @@ http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/95619
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Cinema - Terror (e)" tvg-logo="" group-title="24/7 CINEMA ",24/7 Cinema - Terror (e)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/95636
 
-#EXTINF:-1 tvg-id="AdultSwim.co" tvg-name="CINE - CineCanal (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-ZvhVOTsSTzg/XaokZ4XKSPI/AAAAAAAAAWI/MsjCS3r3rQop2YtmW8uC0_gyZU5WsAgqACLcBGAsYHQ/s200/4.png" group-title="CANALES-ENTRETENIMIENTO",CINE - CineCanal (TV)(1080)
+#EXTINF:-1 tvg-id="AdultSwim.co" tvg-name="CINE - CineCanal (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-ZvhVOTsSTzg/XaokZ4XKSPI/AAAAAAAAAWI/MsjCS3r3rQop2YtmW8uC0_gyZU5WsAgqACLcBGAsYHQ/s200/4.png" group-title="CINE PREMIUM",CINE - CineCanal (TV)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9629
-#EXTINF:-1 tvg-id="Cinemax.(Mexico).(CINEMAX).mx" tvg-name="CINE - Cinemax (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-SWgMvQVmNFs/XatKBoFk9XI/AAAAAAAAAcE/iIZCNfcElxsfxcj0hGdLxHZ0l7D7wRJ6wCLcBGAsYHQ/s200/43.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Cinemax (M)(1080)
+#EXTINF:-1 tvg-id="Cinemax.(Mexico).(CINEMAX).mx" tvg-name="CINE - Cinemax (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-SWgMvQVmNFs/XatKBoFk9XI/AAAAAAAAAcE/iIZCNfcElxsfxcj0hGdLxHZ0l7D7wRJ6wCLcBGAsYHQ/s200/43.png" group-title="CINE PREMIUM",CINE - Cinemax (M)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9633
-#EXTINF:-1 tvg-id="" tvg-name="CINE - De Pelicula (M)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/f7177163c833dff4b38fc8d2872f1ec6.png" group-title="CANALES-ENTRETENIMIENTO",CINE - De Pelicula (M)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CINE - De Pelicula (M)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/f7177163c833dff4b38fc8d2872f1ec6.png" group-title="CINE PREMIUM",CINE - De Pelicula (M)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9638
-#EXTINF:-1 tvg-id="" tvg-name="CINE - De Pelicula Plus (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-p0k4fKEUr58/XatKxE50PxI/AAAAAAAAAcM/jvKKEeW_T-8c-q7zmdG1CuyLiD4B1T0WQCLcBGAsYHQ/s200/44.png" group-title="CANALES-ENTRETENIMIENTO",CINE - De Pelicula Plus (M)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CINE - De Pelicula Plus (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-p0k4fKEUr58/XatKxE50PxI/AAAAAAAAAcM/jvKKEeW_T-8c-q7zmdG1CuyLiD4B1T0WQCLcBGAsYHQ/s200/44.png" group-title="CINE PREMIUM",CINE - De Pelicula Plus (M)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9639
-#EXTINF:-1 tvg-id="" tvg-name="CINE - De Pelicula Plus (Z)" tvg-logo="https://static.wixstatic.com/media/281e2a_52ed141254f542599d3f8eabdd34d672~mv2.png/v1/fit/w_463%2Ch_189%2Cal_c/file.png" group-title="CANALES-ENTRETENIMIENTO",CINE - De Pelicula Plus (Z)
+#EXTINF:-1 tvg-id="" tvg-name="CINE - De Pelicula Plus (Z)" tvg-logo="https://static.wixstatic.com/media/281e2a_52ed141254f542599d3f8eabdd34d672~mv2.png/v1/fit/w_463%2Ch_189%2Cal_c/file.png" group-title="CINE PREMIUM",CINE - De Pelicula Plus (Z)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9640
-#EXTINF:-1 tvg-id="" tvg-name="CINE - De Peliculas Clasico (Z)(1080)" tvg-logo="https://static.wixstatic.com/media/281e2a_52ed141254f542599d3f8eabdd34d672~mv2.png/v1/fit/w_463%2Ch_189%2Cal_c/file.png" group-title="CANALES-ENTRETENIMIENTO",CINE - De Peliculas Clasico (Z)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CINE - De Peliculas Clasico (Z)(1080)" tvg-logo="https://static.wixstatic.com/media/281e2a_52ed141254f542599d3f8eabdd34d672~mv2.png/v1/fit/w_463%2Ch_189%2Cal_c/file.png" group-title="CINE PREMIUM",CINE - De Peliculas Clasico (Z)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9641
-#EXTINF:-1 tvg-id="" tvg-name="CINE - De Película (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-p0k4fKEUr58/XatKxE50PxI/AAAAAAAAAcM/jvKKEeW_T-8c-q7zmdG1CuyLiD4B1T0WQCLcBGAsYHQ/s200/44.png" group-title="CANALES-ENTRETENIMIENTO",CINE - De Película (TV)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CINE - De Película (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-p0k4fKEUr58/XatKxE50PxI/AAAAAAAAAcM/jvKKEeW_T-8c-q7zmdG1CuyLiD4B1T0WQCLcBGAsYHQ/s200/44.png" group-title="CINE PREMIUM",CINE - De Película (TV)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9642
-#EXTINF:-1 tvg-id="Canal.Golden.Premier.mx" tvg-name="CINE - Golden Premiere (M)(1080) [Dual Audio]" tvg-logo="https://1.bp.blogspot.com/-j59YyvcAhO4/XatB1WwVKKI/AAAAAAAAAa0/DMlvXZYGuHgvfLb_ggo3sXcUkoeGcGVaQCLcBGAsYHQ/s200/36.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Golden Premiere (M)(1080) [Dual Audio]
+#EXTINF:-1 tvg-id="Canal.Golden.Premier.mx" tvg-name="CINE - Golden Premiere (M)(1080) [Dual Audio]" tvg-logo="https://1.bp.blogspot.com/-j59YyvcAhO4/XatB1WwVKKI/AAAAAAAAAa0/DMlvXZYGuHgvfLb_ggo3sXcUkoeGcGVaQCLcBGAsYHQ/s200/36.png" group-title="CINE PREMIUM",CINE - Golden Premiere (M)(1080) [Dual Audio]
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9664
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Golden Premiere 2 (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-j59YyvcAhO4/XatB1WwVKKI/AAAAAAAAAa0/DMlvXZYGuHgvfLb_ggo3sXcUkoeGcGVaQCLcBGAsYHQ/s200/36.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Golden Premiere 2 (TV)(720)
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Golden Premiere 2 (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-j59YyvcAhO4/XatB1WwVKKI/AAAAAAAAAa0/DMlvXZYGuHgvfLb_ggo3sXcUkoeGcGVaQCLcBGAsYHQ/s200/36.png" group-title="CINE PREMIUM",CINE - Golden Premiere 2 (TV)(720)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9665
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO (M)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="CINE PREMIUM",CINE - HBO (M)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9666
-#EXTINF:-1 tvg-id="HBO.Latin.America.(West).(HBO).mx" tvg-name="CINE - HBO (M)(720)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO (M)(720)
+#EXTINF:-1 tvg-id="HBO.Latin.America.(West).(HBO).mx" tvg-name="CINE - HBO (M)(720)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="CINE PREMIUM",CINE - HBO (M)(720)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9667
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO. 2 (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO. 2 (TV)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO. 2 (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png" group-title="CINE PRREMIUM",CINE - HBO. 2 (TV)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9672
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO 2 (T)(1080)" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO 2 (T)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO 2 (T)(1080)" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png" group-title="CINE PREMIUM",CINE - HBO 2 (T)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9673
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Family (T)(1080)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Family (T)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Family (T)(1080)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="CINE PREMIUM",CINE - HBO Family (T)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9678
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Family (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Family (TV)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Family (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="CINE PREMIUM",CINE - HBO Family (TV)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9679
-#EXTINF:-1 tvg-id="HBO.MUNDI.(Mexico).(HBOMUN).ar" tvg-name="CINE - HBO Mundi (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-oN7wX127j3Q/Xw8lq7qqpSI/AAAAAAAAAWA/gTwoVU0sXXsbMIDKd7I6ojgR-28dars6ACLcBGAsYHQ/w200-h200/hbomundi.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Mundi (TV)(720)
+#EXTINF:-1 tvg-id="HBO.MUNDI.(Mexico).(HBOMUN).ar" tvg-name="CINE - HBO Mundi (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-oN7wX127j3Q/Xw8lq7qqpSI/AAAAAAAAAWA/gTwoVU0sXXsbMIDKd7I6ojgR-28dars6ACLcBGAsYHQ/w200-h200/hbomundi.png" group-title="CINE PREMIUM",CINE - HBO Mundi (TV)(720)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9683
 #EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Mundi (Z)(720)" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7a6a31bc-5276-4bd1-b25c-5d229990651c/ddoicif-5c26565c-0b8a-4e12-ab2c-3445915f66e2.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InB(Z)(720)GgiOiJcL2ZcLzdhNmEzMWJjLTUyNzYtNGJkMS1iMjVjLTVkMjI5OTkwNjUxY1wvZGRvaWNpZi01YzI2NTY1Yy0wYjhhLTRlMTItYWIyYy0zNDQ1OTE1ZjY2ZTIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.8hppAoC3nmeoQdtyGR04J948j3F_OEtAjUmB0pF7bD8" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Mundi (Z)(720)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9684
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Plus (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Plus (M)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Plus (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png" group-title="CINE PREMIUM",CINE - HBO Plus (M)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9685
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Plus (M)(SD) [Dual Audio]" tvg-logo="http://tv.proyectox.vip:8080/images/34173cb38f07f89ddbebc2ac9128303f.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Plus (M)(SD) [Dual Audio]
+#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Plus (M)(SD) [Dual Audio]" tvg-logo="http://tv.proyectox.vip:8080/images/34173cb38f07f89ddbebc2ac9128303f.png" group-title="CINE PREMIUM",CINE - HBO Plus (M)(SD) [Dual Audio]
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9686
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO POP (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-ZCqUx5e0L-4/XkN9ArS4SuI/AAAAAAAABWU/IICrJNBTYNMVKKru6mbn52W8fShz0eoggCLcBGAsYHQ/s200/67.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO POP (M)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO POP (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-ZCqUx5e0L-4/XkN9ArS4SuI/AAAAAAAABWU/IICrJNBTYNMVKKru6mbn52W8fShz0eoggCLcBGAsYHQ/s200/67.png" group-title="CINE PREMIUM",CINE - HBO POP (M)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9689
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO POP (Z)(720) -" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVnMHcQQbV1arQqL1aXSdsPQjQOS1BoB_zOB1rOphseF5cNjelO7wA6blvVo9lA8b6N8E&usqp=CAU" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO POP (Z)(720) -
+#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO POP (Z)(720) -" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVnMHcQQbV1arQqL1aXSdsPQjQOS1BoB_zOB1rOphseF5cNjelO7wA6blvVo9lA8b6N8E&usqp=CAU" group-title="CINE PREMIUM",CINE - HBO POP (Z)(720) -
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9691
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Signature (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-ZqLiBW9RJWA/X6DeXyrPj0I/AAAAAAAAKiI/Q_7ZpvOFmV4ThYcFBDlkUBXJegmG4CPVACLcBGAsYHQ/w680/hbo%2Bsignature.jpg" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Signature (Z)(720)
+#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Signature (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-ZqLiBW9RJWA/X6DeXyrPj0I/AAAAAAAAKiI/Q_7ZpvOFmV4ThYcFBDlkUBXJegmG4CPVACLcBGAsYHQ/w680/hbo%2Bsignature.jpg" group-title="CINE PREMIUM",CINE - HBO Signature (Z)(720)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9694
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Signature Dual Audio (L)(720)" tvg-logo="https://1.bp.blogspot.com/-U60Pby9cnqI/Xw8ovhvpzuI/AAAAAAAAAWY/iU_CaOeTilQPEcKEGo7-rJ0MbA_sDb8SgCLcBGAsYHQ/w200-h200/SIGNATURE.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Signature Dual Audio (L)(720)
+#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Signature Dual Audio (L)(720)" tvg-logo="https://1.bp.blogspot.com/-U60Pby9cnqI/Xw8ovhvpzuI/AAAAAAAAAWY/iU_CaOeTilQPEcKEGo7-rJ0MbA_sDb8SgCLcBGAsYHQ/w200-h200/SIGNATURE.png" group-title="CINE PREMIUM",CINE - HBO Signature Dual Audio (L)(720)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9695
-#EXTINF:-1 tvg-id="" tvg-name="CINE -HBO Xtreme - Dual (L)(720)" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png" group-title="CANALES-ENTRETENIMIENTO",CINE -HBO Xtreme - Dual (L)(720)
+#EXTINF:-1 tvg-id="" tvg-name="CINE -HBO Xtreme - Dual (L)(720)" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png" group-title="CINE PREMIUM",CINE -HBO Xtreme - Dual (L)(720)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9779
-#EXTINF:-1 tvg-id="HBO.Xtreme.Panamericano.(HBOXTR).mx" tvg-name="CINE - HBO Xtreme. (M)(720)" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Xtreme. (M)(720)
+#EXTINF:-1 tvg-id="HBO.Xtreme.Panamericano.(HBOXTR).mx" tvg-name="CINE - HBO Xtreme. (M)(720)" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png" group-title="CINE PREMIUM",CINE - HBO Xtreme. (M)(720)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9699
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Xtreme (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png" group-title="CANALES-ENTRETENIMIENTO",CINE - HBO Xtreme (TV)(SD)
+#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Xtreme (TV)(SD)" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png" group-title="CINE PREMIUM",CINE - HBO Xtreme (TV)(SD)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9700
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Starz (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-eEgFDxMCYm8/Xbf6BQ5kAxI/AAAAAAAAAvQ/dtgBpkQi2Yg_N2MrsCndofbWOjPmk4ywQCLcBGAsYHQ/s200/61.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Starz (M)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Starz (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-eEgFDxMCYm8/Xbf6BQ5kAxI/AAAAAAAAAvQ/dtgBpkQi2Yg_N2MrsCndofbWOjPmk4ywQCLcBGAsYHQ/s200/61.png" group-title="CINE PREMIUM",CINE - Starz (M)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9727
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Starz Comedy (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-65SSCnBQbP4/Xbf6BdncZvI/AAAAAAAAAvM/P7AAIx-1ZV09VxM9GwpIFr6VoawVs3U8ACLcBGAsYHQ/s200/63.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Starz Comedy (M)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Starz Comedy (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-65SSCnBQbP4/Xbf6BdncZvI/AAAAAAAAAvM/P7AAIx-1ZV09VxM9GwpIFr6VoawVs3U8ACLcBGAsYHQ/s200/63.png" group-title="CINE PREMIUM",CINE - Starz Comedy (M)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9728
-#EXTINF:-1 tvg-id="" tvg-name="CINE - STARZ Encore (TV)(1080)" tvg-logo="https://lh3.googleusercontent.com/-2-P-SFuIkVg/Yf9U87XfmbI/AAAAAAAADGU/dR2s6hvETdM_UMHM9Uf1WMwzni5_nNLzwCNcBGAsYHQ/w200-h200/1644123377530154-0.png" group-title="CANALES-ENTRETENIMIENTO",CINE - STARZ Encore (TV)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CINE - STARZ Encore (TV)(1080)" tvg-logo="https://lh3.googleusercontent.com/-2-P-SFuIkVg/Yf9U87XfmbI/AAAAAAAADGU/dR2s6hvETdM_UMHM9Uf1WMwzni5_nNLzwCNcBGAsYHQ/w200-h200/1644123377530154-0.png" group-title="CINE PREMIUM",CINE - STARZ Encore (TV)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9729
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Starz Encore Suspense (Z)" tvg-logo="http://fanc.tmsimg.com/assets/s83076_ll_h3_aa.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Starz Encore Suspense (Z)
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Starz Encore Suspense (Z)" tvg-logo="http://fanc.tmsimg.com/assets/s83076_ll_h3_aa.png" group-title="CINE PREMIUM",CINE - Starz Encore Suspense (Z)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9730
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Starz Family (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-eEgFDxMCYm8/Xbf6BQ5kAxI/AAAAAAAAAvQ/dtgBpkQi2Yg_N2MrsCndofbWOjPmk4ywQCLcBGAsYHQ/s200/61.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Starz Family (M)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Starz Family (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-eEgFDxMCYm8/Xbf6BQ5kAxI/AAAAAAAAAvQ/dtgBpkQi2Yg_N2MrsCndofbWOjPmk4ywQCLcBGAsYHQ/s200/61.png" group-title="CINE PREMIUM",CINE - Starz Family (M)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9731
-#EXTINF:-1 tvg-id="" tvg-name="USA-Starz Cinema (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/48aa7c57897642baa964d953e5630a86.png" group-title="USA-ENTERTAINMENT",USA-Starz Cinema (L)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Starz Cinema (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/48aa7c57897642baa964d953e5630a86.png" group-title="CINE PREMIUM",CINE - Starz Cinema (L)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/17938
-#EXTINF:-1 tvg-id="" tvg-name="USA-Starz Comedy (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/3b3defb7f810a613d194287b4f22223a.png" group-title="USA-ENTERTAINMENT",USA-Starz Comedy (L)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Starz Comedy (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/3b3defb7f810a613d194287b4f22223a.png" group-title="CINE PREMIUM",CINE - Starz Comedy (L)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/17939
-#EXTINF:-1 tvg-id="" tvg-name="USA-Starz Edge West (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/92b5f338e9416e951d8facb93aa02b6d.png" group-title="USA-ENTERTAINMENT",USA-Starz Edge West (L)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Starz Edge West (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/92b5f338e9416e951d8facb93aa02b6d.png" group-title="CINE PREMIUM",CINE - Starz Edge West (L)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/17940
-#EXTINF:-1 tvg-id="" tvg-name="USA-Starz Encore Action (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/d7670105e6d8b0bd34c9e52fbbab3158.png" group-title="USA-ENTERTAINMENT",USA-Starz Encore Action (L)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Starz Encore Action (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/d7670105e6d8b0bd34c9e52fbbab3158.png" group-title="CINE PREMIUM",CINE - Starz Encore Action (L)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/17941
-#EXTINF:-1 tvg-id="" tvg-name="USA-Starz Encore Español (L)(1080)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNNKUh6GtmZDwoT1E4BGC8kNGNWCAua_ZCbGlLnwSWj5u.png" group-title="USA-ENTERTAINMENT",USA-Starz Encore Español (L)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Starz Encore Español (L)(1080)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNNKUh6GtmZDwoT1E4BGC8kNGNWCAua_ZCbGlLnwSWj5u.png" group-title="CINE PREMIUM",CINE - Starz Encore Español (L)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/17942
-#EXTINF:-1 tvg-id="" tvg-name="USA-Starz Encore Suspense (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/811524595fcd0e4a9b991d8f29cbafdc.png" group-title="USA-ENTERTAINMENT",USA-Starz Encore Suspense (L)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Starz Encore Suspense (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/811524595fcd0e4a9b991d8f29cbafdc.png" group-title="CINE PREMIUM",CINE - Starz Encore Suspense (L)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/17943
-#EXTINF:-1 tvg-id="" tvg-name="USA-Starz InBlack (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/5a5c21bb4a73d286ba0c03ef1294e127.png" group-title="USA-ENTERTAINMENT",USA-Starz InBlack (L)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Starz InBlack (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/5a5c21bb4a73d286ba0c03ef1294e127.png" group-title="CINE PREMIUM",CINE-Starz InBlack (L)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/17944
-#EXTINF:-1 tvg-id="" tvg-name="USA-Starz Kids & Family (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/7d63340016cf627156aa959eb3616fa6.png" group-title="USA-ENTERTAINMENT",USA-Starz Kids & Family (L)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Starz Kids & Family (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/7d63340016cf627156aa959eb3616fa6.png" group-title="CINE PREMIUM",CINE - Starz Kids & Family (L)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/17945
-#EXTINF:-1 tvg-id="" tvg-name="USA-Starz Encore Westerns (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/7ea703448541d8d51253e6051d1f7aab.png" group-title="USA-ENTERTAINMENT",USA-Starz Encore Westerns (L)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Starz Encore Westerns (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/7ea703448541d8d51253e6051d1f7aab.png" group-title="CINE PREMIUM",CINE - Starz Encore Westerns (L)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/17946
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Cinema (M)(1080) [Dual Audio]" tvg-logo="https://lh3.googleusercontent.com/-xjHq4RLu1gk/YgMWBy84XZI/AAAAAAAADNg/GdbsRVc8rt0bvu5IB9zOI1ptmADB5qycACNcBGAsYHQ/w200-h200/1644369412566727-2.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Universal Cinema (M)(1080) [Dual Audio]
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Cinema (M)(1080) [Dual Audio]" tvg-logo="https://lh3.googleusercontent.com/-xjHq4RLu1gk/YgMWBy84XZI/AAAAAAAADNg/GdbsRVc8rt0bvu5IB9zOI1ptmADB5qycACNcBGAsYHQ/w200-h200/1644369412566727-2.png" group-title="CINE PREMIUM",CINE - Universal Cinema (M)(1080) [Dual Audio]
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9757
 #EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Cinema (Z)(1080)" tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Universal Cinema (Z)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9758
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Comedy (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-SoNWrnF8TnQ/YmxO2XzcUnI/AAAAAAAADg0/nXRD_Ja3KYoO4SJyp2gqQkeFYeWBqt1xwCNcBGAsYHQ/w200-h200/1651265240279800-54.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Universal Comedy (TV)(720)
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Comedy (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-SoNWrnF8TnQ/YmxO2XzcUnI/AAAAAAAADg0/nXRD_Ja3KYoO4SJyp2gqQkeFYeWBqt1xwCNcBGAsYHQ/w200-h200/1651265240279800-54.png" group-title="CINE PREMIUM",CINE - Universal Comedy (TV)(720)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9759
 #EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Comedy (Z)(720)" tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Universal Comedy (Z)(720)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9760
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Premier (L)(720)" tvg-logo="https://lh3.googleusercontent.com/-LG2ri7fQLfc/YgMWEH-ycuI/AAAAAAAADNo/ASe9pUx6JxMEHmZuDP8fnteyPsU8ZBGigCNcBGAsYHQ/w200-h200/1644369421908968-0.png" group-title="CANALES-ENTRETENIMIENTO",CINE - Universal Premier (L)(720)
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Premier (L)(720)" tvg-logo="https://lh3.googleusercontent.com/-LG2ri7fQLfc/YgMWEH-ycuI/AAAAAAAADNo/ASe9pUx6JxMEHmZuDP8fnteyPsU8ZBGigCNcBGAsYHQ/w200-h200/1644369421908968-0.png" group-title="CINE PREMIUM",CINE - Universal Premier (L)(720)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9765
 ttp://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/17950
-#EXTINF:-1 tvg-id="" tvg-name="USA-Ultra Cine (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/fe412bf2aebbf8a9d0375387fdc5de9e.png" group-title="USA-ENTERTAINMENT",USA-Ultra Cine (L)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Ultra Cine (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/fe412bf2aebbf8a9d0375387fdc5de9e.png" group-title="CINE PREMIUM",CINE-Ultra Cine (L)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/17951
-#EXTINF:-1 tvg-id="" tvg-name="USA-Ultra Clásico (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/473dec405225f0853138fa5bdc0959be.png" group-title="USA-ENTERTAINMENT",USA-Ultra Clásico (L)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Ultra Clásico (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/473dec405225f0853138fa5bdc0959be.png" group-title="CINE PREMIUM",CINE-Ultra Clásico (L)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/17952
-#EXTINF:-1 tvg-id="" tvg-name="USA-Ultra Docu (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/a73057cd1b736e729b3d7a1104c331ca.png" group-title="USA-ENTERTAINMENT",USA-Ultra Docu (L)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Ultra Docu (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/a73057cd1b736e729b3d7a1104c331ca.png" group-title="CINE PREMIUM",CINE-Ultra Docu (L)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/17953
-#EXTINF:-1 tvg-id="" tvg-name="USA-Ultra Familia (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/109051065b1197d5094079345082f404.png" group-title="USA-ENTERTAINMENT",USA-Ultra Familia (L)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Ultra Familia (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/109051065b1197d5094079345082f404.png" group-title="CINE PREMIUM",CINE-Ultra Familia (L)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/17954
-#EXTINF:-1 tvg-id="" tvg-name="USA-Ultra Fiesta (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/e172a4bbeef1d8afd6232591432ecb77.png" group-title="USA-ENTERTAINMENT",USA-Ultra Fiesta (L)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Ultra Fiesta (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/e172a4bbeef1d8afd6232591432ecb77.png" group-title="CINE PREMIUM",CINE-Ultra Fiesta (L)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/17955
-#EXTINF:-1 tvg-id="" tvg-name="USA-Ultra Kidz (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/3a7aa642549dad2767e4777a89207bd2.png" group-title="USA-ENTERTAINMENT",USA-Ultra Kidz (L)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Ultra Kidz (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/3a7aa642549dad2767e4777a89207bd2.png" group-title="CINE PREMIUM",CINE-Ultra Kidz (L)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/17956
-#EXTINF:-1 tvg-id="" tvg-name="USA-Ultra Macho (L)(1080)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/Ultra_Macho_2012.png/revision/latest/scale-to-width-down/300?cb=20220727235313&path-prefix=es" group-title="USA-ENTERTAINMENT",USA-Ultra Macho (L)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CINE - Ultra Macho (L)(1080)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/Ultra_Macho_2012.png/revision/latest/scale-to-width-down/300?cb=20220727235313&path-prefix=es" group-title="CINE PREMIUM",CINE-Ultra Macho (L)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/17957
-#EXTINF:-1 tvg-id="" tvg-name="USA-Ultra Mex (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/c53f4d62a4e0534b75542bc9cfa95b23.png" group-title="USA-ENTERTAINMENT",USA-Ultra Mex (L)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CINE -U ltra Mex (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/c53f4d62a4e0534b75542bc9cfa95b23.png" group-title="CINE PREMIUM",CINE-Ultra Mex (L)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/17958
 
-#EXTINF:-1 tvg-id="" tvg-name="DOC-Animal Planet (L)(1080)" tvg-logo="https://logos.xbots.com.mx/Animal_Planet.png" group-title="CANALES-DOCUMENTALES",DOC-Animal Planet (L)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CUL-Animal Planet (L)(1080)" tvg-logo="https://logos.xbots.com.mx/Animal_Planet.png" group-title="CULTURA",CUL-Animal Planet (L)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9811
-#EXTINF:-1 tvg-id="" tvg-name="DOC-Animal Planet (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-FmcbBWBcW04/XzWYaAuXQeI/AAAAAAAABCE/Sxqhgw-oCiEDD8qSiWZZnw_c9BVKOKFVwCLcBGAsYHQ/w200-h200/153%2BAnimal%2BPlanet.png" group-title="CANALES-DOCUMENTALES",DOC-Animal Planet (M)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CUL-Animal Planet (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-FmcbBWBcW04/XzWYaAuXQeI/AAAAAAAABCE/Sxqhgw-oCiEDD8qSiWZZnw_c9BVKOKFVwCLcBGAsYHQ/w200-h200/153%2BAnimal%2BPlanet.png" group-title="CULTURA",CUL-Animal Planet (M)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9812
-#EXTINF:-1 tvg-id="" tvg-name="DOC-Discovery Channel (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-3wjrLsfsfCo/XaukfXyPOwI/AAAAAAAAAgI/ActiBvKEJj8SyoNqq-5A6ErNez2UGZ9LACLcBGAsYHQ/s200/3.png" group-title="CANALES-DOCUMENTALES",DOC-Discovery Channel (Z)(720)
+#EXTINF:-1 tvg-id="" tvg-name="CUL-Discovery Channel (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-3wjrLsfsfCo/XaukfXyPOwI/AAAAAAAAAgI/ActiBvKEJj8SyoNqq-5A6ErNez2UGZ9LACLcBGAsYHQ/s200/3.png" group-title="CULTUTA",CUL-Discovery Channel (Z)(720)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9782
-#EXTINF:-1 tvg-id="" tvg-name="DOC-Discovery Channel (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-3wjrLsfsfCo/XaukfXyPOwI/AAAAAAAAAgI/ActiBvKEJj8SyoNqq-5A6ErNez2UGZ9LACLcBGAsYHQ/s200/3.png" group-title="CANALES-DOCUMENTALES",DOC-Discovery Channel (L)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CUL-Discovery Channel (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-3wjrLsfsfCo/XaukfXyPOwI/AAAAAAAAAgI/ActiBvKEJj8SyoNqq-5A6ErNez2UGZ9LACLcBGAsYHQ/s200/3.png" group-title="CULTURA",CUL-Discovery Channel (L)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9814
-#EXTINF:-1 tvg-id="" tvg-name="DOC-Discovery Home & Health (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-795qtfdAvTU/XaukceRJkUI/AAAAAAAAAfg/7NrIFGl6jvIpQHoLxcjGda1mAhZ8yRZAQCLcBGAsYHQ/s200/11.png" group-title="CANALES-DOCUMENTALES",DOC-Discovery Home & Health (TV)(720)
+#EXTINF:-1 tvg-id="" tvg-name="CUL-Discovery Home & Health (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-795qtfdAvTU/XaukceRJkUI/AAAAAAAAAfg/7NrIFGl6jvIpQHoLxcjGda1mAhZ8yRZAQCLcBGAsYHQ/s200/11.png" group-title="CULTURA",CUL-Discovery Home & Health (TV)(720)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9820
-#EXTINF:-1 tvg-id="" tvg-name="DOC-Discovery Home & Health (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-795qtfdAvTU/XaukceRJkUI/AAAAAAAAAfg/7NrIFGl6jvIpQHoLxcjGda1mAhZ8yRZAQCLcBGAsYHQ/s200/11.png" group-title="CANALES-DOCUMENTALES",DOC-Discovery Home & Health (M)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CUL-Discovery Home & Health (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-795qtfdAvTU/XaukceRJkUI/AAAAAAAAAfg/7NrIFGl6jvIpQHoLxcjGda1mAhZ8yRZAQCLcBGAsYHQ/s200/11.png" group-title="CULTURA",CUL-Discovery Home & Health (M)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9821
-#EXTINF:-1 tvg-id="" tvg-name="DOC-Discovery ID (Z)" tvg-logo="https://static.epg.best/mx/InvestigationDiscovery.mx.png" group-title="CANALES-DOCUMENTALES",DOC-Discovery ID (Z)
+#EXTINF:-1 tvg-id="" tvg-name="CUL-Discovery ID (Z)" tvg-logo="https://static.epg.best/mx/InvestigationDiscovery.mx.png" group-title="CULTURA",CUL-Discovery ID (Z)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9785
-#EXTINF:-1 tvg-id="" tvg-name="DOC-Investigation Discovery (L)(1080)" tvg-logo="https://logos.xbots.com.mx/41020.png" group-title="CANALES-DOCUMENTALES",DOC-Investigation Discovery (L)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CUL-Investigation Discovery (L)(1080)" tvg-logo="https://logos.xbots.com.mx/41020.png" group-title="CULTURA",CUL-Investigation Discovery (L)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9842
-#EXTINF:-1 tvg-id="" tvg-name="DOC-Investigation Discovery (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-1wsiKCXFQwQ/XaukeKJb7pI/AAAAAAAAAf0/yIW1q0Xu334yYzGXEJSoR5g8RObOTjGHwCLcBGAsYHQ/s200/15.png" group-title="CANALES-DOCUMENTALES",DOC-Investigation Discovery (M)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CUL-Investigation Discovery (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-1wsiKCXFQwQ/XaukeKJb7pI/AAAAAAAAAf0/yIW1q0Xu334yYzGXEJSoR5g8RObOTjGHwCLcBGAsYHQ/s200/15.png" group-title="CULTURA",CUL-Investigation Discovery (M)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9843
-#EXTINF:-1 tvg-id="" tvg-name="DOC-Discovery Turbo (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-eJqGszkGWFI/XaukdxerPHI/AAAAAAAAAfw/Qa6E_CIqIO4-exGRGJYvJnohIQ7B2G-SQCLcBGAsYHQ/s200/14.png" group-title="CANALES-DOCUMENTALES",DOC-Discovery Turbo (TV)(720)
+#EXTINF:-1 tvg-id="" tvg-name="DOC-Discovery Turbo (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-eJqGszkGWFI/XaukdxerPHI/AAAAAAAAAfw/Qa6E_CIqIO4-exGRGJYvJnohIQ7B2G-SQCLcBGAsYHQ/s200/14.png" group-title="CULTURA",CUL-Discovery Turbo (TV)(720)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9828
-#EXTINF:-1 tvg-id="" tvg-name="DOC-Discovery TURBO (L)(1080)" tvg-logo="https://logos.xbots.com.mx/3916.png" group-title="CANALES-DOCUMENTALES",DOC-Discovery TURBO (L)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CUL-Discovery TURBO (L)(1080)" tvg-logo="https://logos.xbots.com.mx/3916.png" group-title="CULTURA",CUL-Discovery TURBO (L)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9829
-#EXTINF:-1 tvg-id="" tvg-name="DOC-HGTV (Z)(1080)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1200px-HGTV_logo.png" group-title="CANALES-DOCUMENTALES",DOC-HGTV (Z)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CUL-HGTV (Z)(1080)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1200px-HGTV_logo.png" group-title="CULTURA",CUL-HGTV (Z)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9796
-#EXTINF:-1 tvg-id="HGTV.co" tvg-name="DOC-Discovery HGTV (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-krRxJeizvDU/XzQdUcia0SI/AAAAAAAAA0s/ouYB4v2X10EiAsYCQJ2LtajrGEBUSfaagCLcBGAsYHQ/w200-h200/112%2BHgtv.png" group-title="CANALES-DOCUMENTALES",DOC-Discovery HGTV (TV)(1080)
+#EXTINF:-1 tvg-id="HGTV.co" tvg-name="CUL-Discovery HGTV (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-krRxJeizvDU/XzQdUcia0SI/AAAAAAAAA0s/ouYB4v2X10EiAsYCQJ2LtajrGEBUSfaagCLcBGAsYHQ/w200-h200/112%2BHgtv.png" group-title="CULTURA",CUL-Discovery HGTV (TV)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9819
-#EXTINF:-1 tvg-id="" tvg-name="DOC-History (Z)(1080)" tvg-logo="https://static.epg.best/ar/HistoryChannel.ar.png" group-title="CANALES-DOCUMENTALES",DOC-History (Z)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CUL-History (Z)(1080)" tvg-logo="https://static.epg.best/ar/HistoryChannel.ar.png" group-title="CULTURA",CUL-History (Z)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9797
-#EXTINF:-1 tvg-id="" tvg-name="DOC-History Channel (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-GLj7yNpt2KU/XaukdqE8vgI/AAAAAAAAAfs/nKa7QQhNNrwjMW4AVyNOX8yyPjioQbM0wCLcBGAsYHQ/s200/13.png" group-title="CANALES-DOCUMENTALES",DOC-History Channel (M)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CUL-History Channel (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-GLj7yNpt2KU/XaukdqE8vgI/AAAAAAAAAfs/nKa7QQhNNrwjMW4AVyNOX8yyPjioQbM0wCLcBGAsYHQ/s200/13.png" group-title="CULTURA",CUL-History Channel (M)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9840
-#EXTINF:-1 tvg-id="" tvg-name="DOC-History Channel (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-GLj7yNpt2KU/XaukdqE8vgI/AAAAAAAAAfs/nKa7QQhNNrwjMW4AVyNOX8yyPjioQbM0wCLcBGAsYHQ/s200/13.png" group-title="CANALES-DOCUMENTALES",DOC-History Channel (TV)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CUL-History Channel (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-GLj7yNpt2KU/XaukdqE8vgI/AAAAAAAAAfs/nKa7QQhNNrwjMW4AVyNOX8yyPjioQbM0wCLcBGAsYHQ/s200/13.png" group-title="CULTURA",CUL-History Channel (TV)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9841
-#EXTINF:-1 tvg-id="" tvg-name="DOC-History 2 (Z)(1080)" tvg-logo="https://static.epg.best/pa/History2LatinAmerica.pa.png" group-title="CANALES-DOCUMENTALES",DOC-History 2 (Z)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CUL-History 2 (Z)(1080)" tvg-logo="https://static.epg.best/pa/History2LatinAmerica.pa.png" group-title="CULTURA",CUL-History 2 (Z)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9798
-#EXTINF:-1 tvg-id="" tvg-name="DOC-H2 (M)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/c20ad4d76fe97759aa27a0c99bff6710.png" group-title="CANALES-DOCUMENTALES",DOC-H2 (M)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CUL-H2 (M)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/c20ad4d76fe97759aa27a0c99bff6710.png" group-title="CULTURA",CUL-H2 (M)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9836
-#EXTINF:-1 tvg-id="" tvg-name="DOC-H2 (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-xSsX0Ia8wF4/XaukdVsLyAI/AAAAAAAAAfo/k34jiOUjQKYMLSGBsGCOIR2ZZTKD7tkhQCLcBGAsYHQ/s200/12.png" group-title="CANALES-DOCUMENTALES",DOC-H2 (TV)(720)
+#EXTINF:-1 tvg-id="" tvg-name="CUL-H2 (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-xSsX0Ia8wF4/XaukdVsLyAI/AAAAAAAAAfo/k34jiOUjQKYMLSGBsGCOIR2ZZTKD7tkhQCLcBGAsYHQ/s200/12.png" group-title="CULTURA",CUL-H2 (TV)(720)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9837
-#EXTINF:-1 tvg-id="" tvg-name="DOC-TLC (Z)(1080)" tvg-logo="https://static.epg.best/mx/TLC.mx.png" group-title="CANALES-DOCUMENTALES",DOC-TLC (Z)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CUL-TLC (Z)(1080)" tvg-logo="https://static.epg.best/mx/TLC.mx.png" group-title="CANALES-DOCUMENTALES",DOC-TLC (Z)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9810
-#EXTINF:-1 tvg-id="" tvg-name="DOC-Discovery TLC (L)(1080)" tvg-logo="https://logos.xbots.com.mx/97.png" group-title="CANALES-DOCUMENTALES",DOC-Discovery TLC (L)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CUL-Discovery TLC (L)(1080)" tvg-logo="https://logos.xbots.com.mx/97.png" group-title="CANALES-DOCUMENTALES",DOC-Discovery TLC (L)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9825
-#EXTINF:-1 tvg-id="" tvg-name="DOC-Discovery TLC (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-HOVUuBuEOZM/Xaukegk8w4I/AAAAAAAAAf8/y-jpMQsSCV80Xvk1S8dDwdMLyx6c4JohgCLcBGAsYHQ/s200/17.png" group-title="CANALES-DOCUMENTALES",DOC-Discovery TLC (M)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="CUL-Discovery TLC (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-HOVUuBuEOZM/Xaukegk8w4I/AAAAAAAAAf8/y-jpMQsSCV80Xvk1S8dDwdMLyx6c4JohgCLcBGAsYHQ/s200/17.png" group-title="CULTURA",CUL-Discovery TLC (M)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9826
-#EXTINF:-1 tvg-id="National.Geographic.Channel.(West./.Mexico).(NGC).mx" tvg-name="DOC-NatGeo (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-MGoRDUDmarw/Xaukg9DsL8I/AAAAAAAAAgg/9FgoGgGAUWMkAdNxwa_1hcuBYf8ElS9BACLcBGAsYHQ/s200/9.png" group-title="CANALES-DOCUMENTALES",DOC-NatGeo (TV)(720)
+#EXTINF:-1 tvg-id="National.Geographic.Channel.(West./.Mexico).(NGC).mx" tvg-name="DOC-NatGeo (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-MGoRDUDmarw/Xaukg9DsL8I/AAAAAAAAAgg/9FgoGgGAUWMkAdNxwa_1hcuBYf8ElS9BACLcBGAsYHQ/s200/9.png" group-title="CULTURA",CUL-NatGeo (TV)(720)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9846
-#EXTINF:-1 tvg-id="" tvg-name="DOC-NatGeo (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-MGoRDUDmarw/Xaukg9DsL8I/AAAAAAAAAgg/9FgoGgGAUWMkAdNxwa_1hcuBYf8ElS9BACLcBGAsYHQ/s200/9.png" group-title="CANALES-DOCUMENTALES",DOC-NatGeo (M)(1080)
+#EXTINF:-1 tvg-id="" tvg-name="DOC-NatGeo (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-MGoRDUDmarw/Xaukg9DsL8I/AAAAAAAAAgg/9FgoGgGAUWMkAdNxwa_1hcuBYf8ElS9BACLcBGAsYHQ/s200/9.png" group-title="CULTURA",CUL-NatGeo (M)(1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9847
-#EXTINF:-1 tvg-id="" tvg-name="DOC-NatGeo Mundo (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-5azFICqil-U/XxSzvxN17FI/AAAAAAAACS8/N-KRlf6C1FcisOo3m7_NWtVvs-KGcXZZwCLcBGAsYHQ/s200/25.png" group-title="CANALES-DOCUMENTALES",DOC-NatGeo Mundo (TV)(720)
+#EXTINF:-1 tvg-id="" tvg-name="DOC-NatGeo Mundo (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-5azFICqil-U/XxSzvxN17FI/AAAAAAAACS8/N-KRlf6C1FcisOo3m7_NWtVvs-KGcXZZwCLcBGAsYHQ/s200/25.png" group-title="CULTURA",CUL-NatGeo Mundo (TV)(720)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9848
 
 
