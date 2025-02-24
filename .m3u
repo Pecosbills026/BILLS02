@@ -1,4 +1,4 @@
-XTM3U
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="MEX-ADN 40 (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="MEXICO",MEX-ADN 40 (W) [Geo-bloc](720)
 http://canal-pro.xyz:8080/73177492/13012022/24886
 #EXTINF:-1 tvg-id="" tvg-name="MEX-Azteca UNO (L)(720)" tvg-logo="https://1.bp.blogspot.com/-rCbIcWgf8KM/Xm54--dqL2I/AAAAAAAABjA/WfovYd6uNOMJFVGwof8uwuxEN4lHorZ_gCLcBGAsYHQ/s200/30.png" group-title="MEXICO",Azteca UNO (L)(720)
@@ -177,7 +177,6 @@ http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9759
 #EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Comedy (Z)(720)" tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png" group-title="CINE PREMIUM",Universal Comedy (720)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9760
 #EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Premier (L)(720)" tvg-logo="https://lh3.googleusercontent.com/-LG2ri7fQLfc/YgMWEH-ycuI/AAAAAAAADNo/ASe9pUx6JxMEHmZuDP8fnteyPsU8ZBGigCNcBGAsYHQ/w200-h200/1644369421908968-0.png" group-title="CINE PREMIUM",Universal Premier (720)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9765
 ttp://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/17950
 #EXTINF:-1 tvg-id="" tvg-name="CINE - Ultra Cine (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/fe412bf2aebbf8a9d0375387fdc5de9e.png" group-title="CINE PREMIUM",Ultra Cine (1080)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/17951
@@ -246,9 +245,6 @@ http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9846
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9847
 #EXTINF:-1 tvg-id="" tvg-name="DOC-NatGeo Mundo (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-5azFICqil-U/XxSzvxN17FI/AAAAAAAACS8/N-KRlf6C1FcisOo3m7_NWtVvs-KGcXZZwCLcBGAsYHQ/s200/25.png" group-title="CULTURA",NatGeo Mundo (720)
 http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9848
-
-
-
 
 
 
