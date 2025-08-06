@@ -1,243 +1,483 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="MEX-ADN 40 (W) [Geo-bloc](720)" tvg-logo="https://i.imgur.com/Og17U9N.png" group-title="MEXICO",MEX-ADN 40 (W) [Geo-bloc](720)
-http://canal-pro.xyz:8080/73177492/13012022/24886
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Azteca UNO (L)(720)" tvg-logo="https://1.bp.blogspot.com/-rCbIcWgf8KM/Xm54--dqL2I/AAAAAAAABjA/WfovYd6uNOMJFVGwof8uwuxEN4lHorZ_gCLcBGAsYHQ/s200/30.png" group-title="MEXICO",Azteca UNO (L)(720)
-http://canal-pro.xyz:8080/73177492/13012022/24787
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Azteca UNO -2 Horas (L)(SD)" tvg-logo="https://1.bp.blogspot.com/-rCbIcWgf8KM/Xm54--dqL2I/AAAAAAAABjA/WfovYd6uNOMJFVGwof8uwuxEN4lHorZ_gCLcBGAsYHQ/s200/30.png" group-title="MEXICO",Azteca UNO -2 Horas (L)(SD)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/87575
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Azteca 7 (M)(720)" tvg-logo="https://1.bp.blogspot.com/-ie8UXB6UqPM/Xm55jaDr75I/AAAAAAAABjI/653qMC9f1pEKsLM1D_PgRVXhJwRFOlpBACLcBGAsYHQ/s200/31.png" group-title="MEXICO",Azteca 7 (M)(720)
-http://canal-pro.xyz:8080/73177492/13012022/24788
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Azteca 7 (M)(SD)" tvg-logo="https://1.bp.blogspot.com/-ie8UXB6UqPM/Xm55jaDr75I/AAAAAAAABjI/653qMC9f1pEKsLM1D_PgRVXhJwRFOlpBACLcBGAsYHQ/s200/31.png" group-title="MEXICO",Azteca 7 (M)(SD)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/87570
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Las Estrellas (L)(720)" tvg-logo="https://1.bp.blogspot.com/-e2wz8A8TfGM/Xm56KL_9AVI/AAAAAAAABjU/Ukz1VU_TSlAuHvW8BFmY7kgneq_wuU80QCLcBGAsYHQ/s200/32.png" group-title="MEXICO",Las Estrellas (L)(720)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/87579
-#EXTINF:-1 tvg-id="" tvg-name="MEX_Las Estrellas -2hr (M)(720)" tvg-logo="https://1.bp.blogspot.com/-e2wz8A8TfGM/Xm56KL_9AVI/AAAAAAAABjU/Ukz1VU_TSlAuHvW8BFmY7kgneq_wuU80QCLcBGAsYHQ/s200/32.png" group-title="MEXICO",Las Estrellas -2hr (M)(720)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/87581
-#EXTINF:-1 tvg-id="" tvg-name="CINE - AZ Cinema (M)(720)" tvg-logo="https://1.bp.blogspot.com/--fcykTIfCuM/Xm5wXqrCohI/AAAAAAAABgo/SG1Fhjw4qfwahRTffNn7aqsPxHr7h8YMwCLcBGAsYHQ/s200/19.png" group-title="CINE PREMIUM",CINE - AZ CINEMA
-http://canal-pro.xyz:8080/73177492/13012022/24783
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Canal 5 (L)(HD)" tvg-logo="https://1.bp.blogspot.com/-MmJ4TgLhKa0/Xm5o4_B3H8I/AAAAAAAABeQ/b7jztTDAi5g7UDvJLofwH1KNMZmv0OvGwCLcBGAsYHQ/s200/12.png" group-title="MEXICO",Canal 5 (L)(SD)
-http://canal-pro.xyz:8080/73177492/13012022/24902
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Canal 5 (L)(720)" tvg-logo="https://1.bp.blogspot.com/-MmJ4TgLhKa0/Xm5o4_B3H8I/AAAAAAAABeQ/b7jztTDAi5g7UDvJLofwH1KNMZmv0OvGwCLcBGAsYHQ/s200/12.png" group-title="MEXICO",Canal 5 (L)(720)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/87598
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Azteca Deportes (L)(SD)" tvg-logo="https://i.postimg.cc/sx2Qs4zp/Azteca-Deportes.png" group-title="CANALES-DEPORTES",DEPORTES - Azteca Deportes (L)(720)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/87573
-#EXTINF:-1 tvg-id="" tvg-name="MEX-Azteca Deportes (L)(720)" tvg-logo="https://i.postimg.cc/sx2Qs4zp/Azteca-Deportes.png" group-title="CANALES-DEPORTES",DEPORTES - Azteca Deportes (L)(720)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/87574
-#EXTINF:-1 tvg-id="ESPN.(Mexico).(ESPMX).mx" tvg-name="DEPORTES - Espn 1 MEX (L)(720)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-DEPORTES",Espn 1 MEX (720)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9523
-#EXTINF:-1 tvg-id="ESPN.(Mexico).(ESPMX).mx" tvg-name="DEPORTES - Espn 1 MEX (PM)(720)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-DEPORTES",Espn 1 MEX (720)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9524
-#EXTINF:-1 tvg-id="ESPN.(Mexico).(ESPMX).mx" tvg-name="DEPORTES - Espn 1 MEX (T)(1080)" tvg-logo="https://1.bp.blogspot.com/-_-38APt-8pM/Xay_Z5zsLcI/AAAAAAAAAkU/PF6BQcFPL5YtdLFw8kn4prIX6q2UbXF_gCLcBGAsYHQ/s200/5.png" group-title="CANALES-DEPORTES",Espn 1 MEX (1080)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9525
-#EXTINF:-1 tvg-id="ESPN.2.Latin.North.(Mexico).(ESPN2M).mx" tvg-name="DEPORTES - Espn 2 MEX (L)(720)" tvg-logo="https://1.bp.blogspot.com/-_XxscAqVFhA/Xay_aGq3DuI/AAAAAAAAAkY/ga-t6_3827QQFqSnExfABTNBtMbpvJEYgCLcBGAsYHQ/s200/6.png" group-title="CANALES-DEPORTES",Espn 2 MEX (720)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9530
-#EXTINF:-1 tvg-id="ESPN.2.Latin.North.(Mexico).(ESPN2M).mx" tvg-name="DEPORTES - Espn 2 MEX (TV)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/1679091c5a880faf6fb5e6087eb1b2dc.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 2 MEX (TV)(1080)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9531
-#EXTINF:-1 tvg-id="ESPN.3.HDTV.North.(Latin.America).(ESPN3HD).mx" tvg-name="DEPORTES - Espn 3 MEX (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 3 MEX (M)(1080)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9535
-#EXTINF:-1 tvg-id="ESPN.3.North.(Latin.America).(ESPN3).mx" tvg-name="DEPORTES - Espn 3 MEX (M)(720)" tvg-logo="https://1.bp.blogspot.com/-A1Uifycds-8/Xay_aTIse4I/AAAAAAAAAkc/CXqeatJad3EK19gehIfywsrzuaR17--pgCLcBGAsYHQ/s200/7.png" group-title="CANALES-DEPORTES",DEPORTES - Espn 3 MEX (M)(720)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9536
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Fox Sports 1 LAT (Z)(1080)" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 1 LAT (Z)(1080)
-http://canal-pro.xyz:8080/73177492/13012022/24822
-#EXTINF:-1 tvg-id="Fox.Sports.Latin.America.HDTV.(Cono.Norte).(FOXSPHD).mx" tvg-name="DEPORTES - Fox Sports 1 MEX (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-ANvUBZdXt0M/Xay_WItSP3I/AAAAAAAAAjs/00yDNyTvcs846cmFIVHEOrwLYd6UPJehgCLcBGAsYHQ/s200/1.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 1 MEX (M)(1080)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9579
-#EXTINF:-1 tvg-id="Fox.Sports.2.(Cono.Norte).(FOXSP2).mx" tvg-name="DEPORTES - Fox Sports 2 MEX (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-F55EXTlQLLM/Xay_ZKpzh-I/AAAAAAAAAkI/aj1P5U_FLxUX17xtYY5q-J8ujgfiaG1ZACLcBGAsYHQ/s200/2.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 2 MEX (M)(1080)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9585
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Fox Sports 2 MX (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-AJ5Rf2Jtldk/Xajps0BEM3I/AAAAAAAAASY/QhwqT65Cbtcfnva5b_ZG03mAgWevuOQ3wCLcBGAsYHQ/s200/11.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 2 MX (Z)(720)
-http://canal-pro.xyz:8080/73177492/13012022/24823
-#EXTINF:-1 tvg-id="Fox.Sports.3.(Cono.Norte).(FOXSP3).mx" tvg-name="DEPORTES - Fox Sports 3 MEX (M)(SD)" tvg-logo="http://tv.proyectox.vip:8080/images/eccbc87e4b5ce2fe28308fd9f2a7baf3.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 3 MEX (M)(SD)
-http://canal-pro.xyz:8080/73177492/13012022/24824
-#EXTINF:-1 tvg-id="" tvg-name="DEPORTES - Fox Sports 3 MX (Z)(1080)" tvg-logo="https://1.bp.blogspot.com/-gZ-fKImbBrA/Xay_ZVexiDI/AAAAAAAAAkM/w2BvDpBX7kIdCeB5j8aK8maKVbORE6e8QCLcBGAsYHQ/s200/3.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports 3 MX (Z)(1080)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9592
-#EXTINF:-1 tvg-id="Fox.Deportes.en.Español.HDTV.(U.S.).(FXDEHD).us" tvg-name="DEPORTES - Fox Deportes (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-ZrLBW7y8kKE/Xay_YpKJ9bI/AAAAAAAAAkA/-UNQCYuie0glvhjIFsMXPDS6qVX5QlsCwCLcBGAsYHQ/s200/16.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Deportes (TV)(720)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9571
-#EXTINF:-1 tvg-id="QVC3.(QVC3).us" tvg-name="DEPORTES - FOX DEPORTES (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-ZrLBW7y8kKE/Xay_YpKJ9bI/AAAAAAAAAkA/-UNQCYuie0glvhjIFsMXPDS6qVX5QlsCwCLcBGAsYHQ/s200/16.png" group-title="CANALES-DEPORTES",DEPORTES - FOX DEPORTES (Z)(720)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9572
-#EXTINF:-1 tvg-id="FOX.Sports.Premium.MEXICO.mx" tvg-name="DEPORTES - Fox Sports Premium MX (L)(720)" tvg-logo="https://i.postimg.cc/SsSNFqg1/Proyectox-fox-premium.png" group-title="CANALES-DEPORTES",DEPORTES - Fox Sports Premium MX (L)(720)
-http://canal-pro.xyz:8080/73177492/13012022/24775
-#EXTINF:-1 tvg-id="" tvg-name="24/7 - El Chavo del Ocho HQ (e)" tvg-logo="" group-title="24/7",El Chavo del Ocho HQ (e)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/94852
-#EXTINF:-1 tvg-id="" tvg-name="24/7 - El Chapulin Colorado (e)" tvg-logo="" group-title="24/7",El Chavo del Ocho HQ (e)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/95639
-#EXTINF:-1 tvg-id="" tvg-name="24/7 - Chespirito ⭐️" tvg-logo="https://vignette.wikia.nocookie.net/chespirito/images/a/a4/Chespirito_1991.png/revision/latest?cb=20180907201947&path-prefix=es" group-title="24/7",Chespirito ⭐️
-http://home-playtv.com:80/user450983/jwn7AcgdDQ/51343.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 - Cantinflas (e)" tvg-logo="" group-title="24/7",Cantinflas (e)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/95617
-#EXTINF:-1 tvg-id="" tvg-name="24/7 - Clasico (e)" tvg-logo="" group-title="24/7",Cine Clasico (e)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/95619
-#EXTINF:-1 tvg-id="" tvg-name="24/7 - Terror (e)" tvg-logo="" group-title="24/7",Cine Terror (e)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/95636
-
-#EXTINF:-1 tvg-id="" tvg-name="CUL-Animal Planet (L)(1080)" tvg-logo="https://logos.xbots.com.mx/Animal_Planet.png" group-title="CULTURA",Animal Planet (1080)
-http://ultrapremium.cloud:8080/962904224tv/946j6z/403
-#EXTINF:-1 tvg-id="" tvg-name="CUL-Animal Planet (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-FmcbBWBcW04/XzWYaAuXQeI/AAAAAAAABCE/Sxqhgw-oCiEDD8qSiWZZnw_c9BVKOKFVwCLcBGAsYHQ/w200-h200/153%2BAnimal%2BPlanet.png" group-title=,Animal Planet (1080)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9812
-#EXTINF:-1 tvg-id="" tvg-name="CUL-Discovery Channel (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-3wjrLsfsfCo/XaukfXyPOwI/AAAAAAAAAgI/ActiBvKEJj8SyoNqq-5A6ErNez2UGZ9LACLcBGAsYHQ/s200/3.png" group-title="CULTURA",Discovery Channel (720)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9782
-#EXTINF:-1 tvg-id="" tvg-name="CUL-Discovery Channel (L)(1080)" tvg-logo="https://1.bp.blogspot.com/-3wjrLsfsfCo/XaukfXyPOwI/AAAAAAAAAgI/ActiBvKEJj8SyoNqq-5A6ErNez2UGZ9LACLcBGAsYHQ/s200/3.png" group-title="CULTURA",Discovery Channel (1080)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9814
-#EXTINF:-1 tvg-id="" tvg-name="CUL-Discovery Home & Health (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-795qtfdAvTU/XaukceRJkUI/AAAAAAAAAfg/7NrIFGl6jvIpQHoLxcjGda1mAhZ8yRZAQCLcBGAsYHQ/s200/11.png" group-title="CULTURA",Home&Health (720)
-http://ultrapremium.cloud:8080/962904224tv/946j6z/412
-#EXTINF:-1 tvg-id="" tvg-name="CUL-Discovery Home & Health (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-795qtfdAvTU/XaukceRJkUI/AAAAAAAAAfg/7NrIFGl6jvIpQHoLxcjGda1mAhZ8yRZAQCLcBGAsYHQ/s200/11.png" group-title="CULTURA",Home&Health (1080)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9821
-#EXTINF:-1 tvg-id="" tvg-name="CUL-Discovery ID (Z)" tvg-logo="https://static.epg.best/mx/InvestigationDiscovery.mx.png" group-title="CULTURA",Discovery ID (1080)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9785
-#EXTINF:-1 tvg-id="" tvg-name="CUL-Investigation Discovery (L)(1080)" tvg-logo="https://logos.xbots.com.mx/41020.png" group-title="CULTURA",Investigation Discovery (1080)
-http://ultrapremium.cloud:8080/962904224tv/946j6z/438
-#EXTINF:-1 tvg-id="" tvg-name="CUL-Investigation Discovery (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-1wsiKCXFQwQ/XaukeKJb7pI/AAAAAAAAAf0/yIW1q0Xu334yYzGXEJSoR5g8RObOTjGHwCLcBGAsYHQ/s200/15.png" group-title=",Investigation Discovery (1080)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9843
-#EXTINF:-1 tvg-id="" tvg-name="CUL-Discovery Turbo (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-eJqGszkGWFI/XaukdxerPHI/AAAAAAAAAfw/Qa6E_CIqIO4-exGRGJYvJnohIQ7B2G-SQCLcBGAsYHQ/s200/14.png" group-title=,Discovery Turbo (720)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9828
-#EXTINF:-1 tvg-id="" tvg-name="CUL-Discovery TURBO (L)(1080)" tvg-logo="https://logos.xbots.com.mx/3916.png" group-title="CULTURA",Discovery TURBO (1080)
-http://ultrapremium.cloud:8080/962904224tv/946j6z/421
-#EXTINF:-1 tvg-id="" tvg-name="CUL-HGTV (Z)(1080)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/HGTV_logo.png/1200px-HGTV_logo.png" group-title="CULTURA",HGTV (1080)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9796
-#EXTINF:-1 tvg-id="HGTV.co" tvg-name="CUL-Discovery HGTV (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-krRxJeizvDU/XzQdUcia0SI/AAAAAAAAA0s/ouYB4v2X10EiAsYCQJ2LtajrGEBUSfaagCLcBGAsYHQ/w200-h200/112%2BHgtv.png" group-title="CULTURA",Discovery HGTV (1080)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9819
-#EXTINF:-1 tvg-id="" tvg-name="CUL-History (Z)(1080)" tvg-logo="https://static.epg.best/ar/HistoryChannel.ar.png" group-title="CULTURA",History (1080)
-http://ultrapremium.cloud:8080/962904224tv/946j6z/432
-#EXTINF:-1 tvg-id="" tvg-name="CUL-History Channel (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-GLj7yNpt2KU/XaukdqE8vgI/AAAAAAAAAfs/nKa7QQhNNrwjMW4AVyNOX8yyPjioQbM0wCLcBGAsYHQ/s200/13.png" group-title="CULTURA",History Channel (1080)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9840
-#EXTINF:-1 tvg-id="" tvg-name="CUL-History Channel (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-GLj7yNpt2KU/XaukdqE8vgI/AAAAAAAAAfs/nKa7QQhNNrwjMW4AVyNOX8yyPjioQbM0wCLcBGAsYHQ/s200/13.png" group-title="CULTURA",History Channel (1080)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9841
-#EXTINF:-1 tvg-id="" tvg-name="CUL-History 2 (Z)(1080)" tvg-logo="https://static.epg.best/pa/History2LatinAmerica.pa.png" group-title=
-http://ultrapremium.cloud:8080/962904224tv/946j6z/429
-#EXTINF:-1 tvg-id="" tvg-name="CUL-H2 (M)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/c20ad4d76fe97759aa27a0c99bff6710.png" group-title="CULTURA",H2 (1080)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9836
-#EXTINF:-1 tvg-id="" tvg-name="CUL-H2 (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-xSsX0Ia8wF4/XaukdVsLyAI/AAAAAAAAAfo/k34jiOUjQKYMLSGBsGCOIR2ZZTKD7tkhQCLcBGAsYHQ/s200/12.png" group-title="CULTURA",H2 (720)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9837
-#EXTINF:-1 tvg-id="" tvg-name="CUL-TLC (Z)(1080)" tvg-logo="https://static.epg.best/mx/TLC.mx.png" group-title="CULTURA",TLC (1080)
-http://ultrapremium.cloud:8080/962904224tv/946j6z/447
-#EXTINF:-1 tvg-id="" tvg-name="CUL-Discovery TLC (L)(1080)" tvg-logo="https://logos.xbots.com.mx/97.png" group-title="CULTURA",Discovery TLC (1080)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9825
-#EXTINF:-1 tvg-id="" tvg-name="CUL-Discovery TLC (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-HOVUuBuEOZM/Xaukegk8w4I/AAAAAAAAAf8/y-jpMQsSCV80Xvk1S8dDwdMLyx6c4JohgCLcBGAsYHQ/s200/17.png" group-title="CULTURA",Discovery TLC (1080)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9826
-#EXTINF:-1 tvg-id="National.Geographic.Channel.(West./.Mexico).(NGC).mx" tvg-name="DOC-NatGeo (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-MGoRDUDmarw/Xaukg9DsL8I/AAAAAAAAAgg/9FgoGgGAUWMkAdNxwa_1hcuBYf8ElS9BACLcBGAsYHQ/s200/9.png" group-title="CULTURA",NatGeo (720)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9846
-#EXTINF:-1 tvg-id="" tvg-name="DOC-NatGeo (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-MGoRDUDmarw/Xaukg9DsL8I/AAAAAAAAAgg/9FgoGgGAUWMkAdNxwa_1hcuBYf8ElS9BACLcBGAsYHQ/s200/9.png" group-title="CULTURA",NatGeo (1080)
-http://ultrapremium.cloud:8080/962904224tv/946j6z/441
-#EXTINF:-1 tvg-id="" tvg-name="DOC-NatGeo Mundo (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-5azFICqil-U/XxSzvxN17FI/AAAAAAAACS8/N-KRlf6C1FcisOo3m7_NWtVvs-KGcXZZwCLcBGAsYHQ/s200/25.png" group-title="CULTURA",NatGeo Mundo (720)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9848
-
-#EXTINF:-1 tvg-id="AdultSwim.co" tvg-name="CINE - CineCanal (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-ZvhVOTsSTzg/XaokZ4XKSPI/AAAAAAAAAWI/MsjCS3r3rQop2YtmW8uC0_gyZU5WsAgqACLcBGAsYHQ/s200/4.png" group-title="CINE PREMIUM",CineCanal (1080)
-http://sdmx.vip:80/yestv/eVW6aPPbUCD8/2092595
-#EXTINF:-1 tvg-id="Cinemax.(Mexico).(CINEMAX).mx" tvg-name="CINE - Cinemax (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-SWgMvQVmNFs/XatKBoFk9XI/AAAAAAAAAcE/iIZCNfcElxsfxcj0hGdLxHZ0l7D7wRJ6wCLcBGAsYHQ/s200/43.png" group-title="CINE PREMIUM",Cinemax (1080)
-http://canal-pro.xyz:8080/73177492/13012022/118
-#EXTINF:-1 tvg-id="Cinemax.(Mexico).(CINEMAX).mx" tvg-name="CINE - Cinemax (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-SWgMvQVmNFs/XatKBoFk9XI/AAAAAAAAAcE/iIZCNfcElxsfxcj0hGdLxHZ0l7D7wRJ6wCLcBGAsYHQ/s200/43.png" group-title="CINE PREMIUM",Cinemax (1080)
-http://canal-pro.xyz:8080/73177492/13012022/119
-#EXTINF:-1 tvg-id="" tvg-name="CINE - De Pelicula (M)(1080)" tvg-logo="http://ceoapps.org/logos/depeliculaclasico.png" group-title="CINE PREMIUM",De Pelicula (1080)
-http://sdmx.vip:80/yestv/eVW6aPPbUCD8/10856
-#EXTINF:-1 tvg-id="" tvg-name="CINE - De Pelicula Plus (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-p0k4fKEUr58/XatKxE50PxI/AAAAAAAAAcM/jvKKEeW_T-8c-q7zmdG1CuyLiD4B1T0WQCLcBGAsYHQ/s200/44.png" group-title="CINE PREMIUM",De Pelicula Plus (1080)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9639
-#EXTINF:-1 tvg-id="" tvg-name="CINE - De Pelicula Plus (Z)" tvg-logo="https://static.wixstatic.com/media/281e2a_52ed141254f542599d3f8eabdd34d672~mv2.png/v1/fit/w_463%2Ch_189%2Cal_c/file.png" group-title="CINE PREMIUM",De Pelicula Plus (1080)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9640
-#EXTINF:-1 tvg-id="" tvg-name="CINE - De Peliculas Clasico (Z)(1080)" tvg-logo="https://static.wixstatic.com/media/281e2a_52ed141254f542599d3f8eabdd34d672~mv2.png/v1/fit/w_463%2Ch_189%2Cal_c/file.png" group-title="CINE PREMIUM",De Peliculas Clasico (1080)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9641
-#EXTINF:-1 tvg-id="" tvg-name="CINE - De Película (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-p0k4fKEUr58/XatKxE50PxI/AAAAAAAAAcM/jvKKEeW_T-8c-q7zmdG1CuyLiD4B1T0WQCLcBGAsYHQ/s200/44.png" group-title="CINE PREMIUM",De Película (1080)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9642
-#EXTINF:-1 tvg-id="Canal.Golden.Premier.mx" tvg-name="CINE - Golden Premiere (M)(1080) [Dual Audio]" tvg-logo="https://1.bp.blogspot.com/-j59YyvcAhO4/XatB1WwVKKI/AAAAAAAAAa0/DMlvXZYGuHgvfLb_ggo3sXcUkoeGcGVaQCLcBGAsYHQ/s200/36.png" group-title="CINE PREMIUM",Golden Premiere (1080) [Dual Audio]
-http://sdmx.vip:80/yestv/eVW6aPPbUCD8/200947
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Golden Premiere 2 (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-j59YyvcAhO4/XatB1WwVKKI/AAAAAAAAAa0/DMlvXZYGuHgvfLb_ggo3sXcUkoeGcGVaQCLcBGAsYHQ/s200/36.png" group-title="CINE PREMIUM",Golden Premiere 2 (720)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9665
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="CINE PREMIUM",HBO (1080)
-http://sdmx.vip:80/yestv/eVW6aPPbUCD8/10885
-#EXTINF:-1 tvg-id="HBO.Latin.America.(West).(HBO).mx" tvg-name="CINE - HBO (M)(720)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="CINE PREMIUM",HBO (720)
-http://canal-pro.xyz:8080/73177492/13012022/140
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO 2 (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png" group-title="CINE PREMIUM",HBO 2 (1080)
-http://sdmx.vip:80/yestv/eVW6aPPbUCD8/10883
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO 2 (T)(1080)" tvg-logo="https://1.bp.blogspot.com/-juIr-lsEvsQ/Xas8q-gU-fI/AAAAAAAAAaI/oQUWMOeVDIAAueeGkwweO76FIosqJndlgCLcBGAsYHQ/s200/33.png" group-title="CINE PREMIUM",HBO 2 (1080)
-http://canal-pro.xyz:8080/73177492/13012022/131
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Family (T)(1080)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="CINE PREMIUM",HBO Family (1080)
-http://canal-pro.xyz:8080/73177492/13012022/136
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Family (TV)(1080)" tvg-logo="https://1.bp.blogspot.com/-J-xVlmkY0-M/Xas8rCDU8rI/AAAAAAAAAaM/HPB4pw0nAWEk-K2PDvQqRhiidzc3m4wXQCLcBGAsYHQ/s200/34.png" group-title="CINE PREMIUM",HBO Family (1080)
-http://sdmx.vip:80/yestv/eVW6aPPbUCD8/10877
-#EXTINF:-1 tvg-id="HBO.MUNDI.(Mexico).(HBOMUN).ar" tvg-name="CINE - HBO Mundi (TV)(720)" tvg-logo="https://1.bp.blogspot.com/-oN7wX127j3Q/Xw8lq7qqpSI/AAAAAAAAAWA/gTwoVU0sXXsbMIDKd7I6ojgR-28dars6ACLcBGAsYHQ/w200-h200/hbomundi.png" group-title="CINE PREMIUM",HBO Mundi (720)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9683
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Mundi (Z)(720)" tvg-logo="https://cdn.mitvstatic.com/channels/ar_max_m.png" group-title="CINE PREMIUM",HBO Mundi (720)
-http://sdmx.vip:80/yestv/eVW6aPPbUCD8/1086
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Plus (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-SyuYLWL8P5c/Xas8qLDrVDI/AAAAAAAAAaA/tcVF_CR7qFo4GS7wwvVfgRnuCTx1KuYMQCLcBGAsYHQ/s200/30.png" group-title="CINE PREMIUM",HBO Plus (1080)
-http://canal-pro.xyz:8080/73177492/13012022/145
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Plus (M)(SD) [Dual Audio]" tvg-logo="http://tv.proyectox.vip:8080/images/34173cb38f07f89ddbebc2ac9128303f.png" group-title="CINE PREMIUM",HBO Plus (SD) [Dual Audio]
-http://canal-pro.xyz:8080/73177492/13012022/146
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO POP (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-ZCqUx5e0L-4/XkN9ArS4SuI/AAAAAAAABWU/IICrJNBTYNMVKKru6mbn52W8fShz0eoggCLcBGAsYHQ/s200/67.png" group-title="CINE PREMIUM",HBO POP (1080)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9689
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO POP (Z)(720) -" tvg-logo="http://ceoapps.org/logos/hbopop2.png" group-title="CINE PREMIUM",HBO POP (720) 
-http://canal-pro.xyz:8080/73177492/13012022/147
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Signature (Z)(720)" tvg-logo="https://1.bp.blogspot.com/-ZqLiBW9RJWA/X6DeXyrPj0I/AAAAAAAAKiI/Q_7ZpvOFmV4ThYcFBDlkUBXJegmG4CPVACLcBGAsYHQ/w680/hbo%2Bsignature.jpg" group-title="CINE PREMIUM",HBO Signature (720)
-http://sdmx.vip:80/yestv/eVW6aPPbUCD8/10882
-#EXTINF:-1 tvg-id="" tvg-name="CINE - HBO Signature Dual Audio (L)(720)" tvg-logo="https://1.bp.blogspot.com/-U60Pby9cnqI/Xw8ovhvpzuI/AAAAAAAAAWY/iU_CaOeTilQPEcKEGo7-rJ0MbA_sDb8SgCLcBGAsYHQ/w200-h200/SIGNATURE.png" group-title="CINE PREMIUM",HBO Signature Dual Audio (720)
-http://canal-pro.xyz:8080/73177492/13012022/150
-#EXTINF:-1 tvg-id="" tvg-name="CINE -HBO Xtreme - Dual (L)(720)" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png" group-title="CINE PREMIUM",HBO Xtreme - Dual (720)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9779
-#EXTINF:-1 tvg-id="HBO.Xtreme.Panamericano.(HBOXTR).mx" tvg-name="CINE - HBO Xtreme. (M)(720)" tvg-logo="https://1.bp.blogspot.com/-SZ8DsKx6WHk/XkN9AsoXzII/AAAAAAAABWQ/Yxqzc1Ds71kYuQgf7xYBuX7bp0Ajj2pKgCLcBGAsYHQ/s200/66.png" group-title="CINE PREMIUM",HBO Xtreme. (720)
-http://canal-pro.xyz:8080/73177492/13012022/158
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Starz (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-eEgFDxMCYm8/Xbf6BQ5kAxI/AAAAAAAAAvQ/dtgBpkQi2Yg_N2MrsCndofbWOjPmk4ywQCLcBGAsYHQ/s200/61.png" group-title="CINE PREMIUM",Starz (1080)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9727
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Starz (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-eEgFDxMCYm8/Xbf6BQ5kAxI/AAAAAAAAAvQ/dtgBpkQi2Yg_N2MrsCndofbWOjPmk4ywQCLcBGAsYHQ/s200/61.png" group-title="CINE PREMIUM",Starz (1080)
-http://canal-pro.xyz:8080/73177492/13012022/216
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Starz Comedy (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-65SSCnBQbP4/Xbf6BdncZvI/AAAAAAAAAvM/P7AAIx-1ZV09VxM9GwpIFr6VoawVs3U8ACLcBGAsYHQ/s200/63.png" group-title="CINE PREMIUM",Starz Comedy (1080)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9728
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Starz Comedy (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-65SSCnBQbP4/Xbf6BdncZvI/AAAAAAAAAvM/P7AAIx-1ZV09VxM9GwpIFr6VoawVs3U8ACLcBGAsYHQ/s200/63.png" group-title="CINE PREMIUM",Starz Comedy (1080)
-http://canal-pro.xyz:8080/73177492/13012022/207
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Starz Classic (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-65SSCnBQbP4/Xbf6BdncZvI/AAAAAAAAAvM/P7AAIx-1ZV09VxM9GwpIFr6VoawVs3U8ACLcBGAsYHQ/s200/63.png" group-title="CINE PREMIUM",Starz Comedy (1080)
-http://canal-pro.xyz:8080/73177492/13012022/211
-#EXTINF:-1 tvg-id="" tvg-name="CINE - STARZ Encore (TV)(1080)" tvg-logo="https://lh3.googleusercontent.com/-2-P-SFuIkVg/Yf9U87XfmbI/AAAAAAAADGU/dR2s6hvETdM_UMHM9Uf1WMwzni5_nNLzwCNcBGAsYHQ/w200-h200/1644123377530154-0.png" group-title="CINE PREMIUM",STARZ Encore (1080)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9729
-#EXTINF:-1 tvg-id="" tvg-name="CINE - STARZ Encore (TV)(1080)" tvg-logo="https://lh3.googleusercontent.com/-2-P-SFuIkVg/Yf9U87XfmbI/AAAAAAAADGU/dR2s6hvETdM_UMHM9Uf1WMwzni5_nNLzwCNcBGAsYHQ/w200-h200/1644123377530154-0.png" group-title="CINE PREMIUM",STARZ Encore (1080)
-http://canal-pro.xyz:8080/73177492/13012022/213
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Starz Encore Suspense (Z)" tvg-logo="http://fanc.tmsimg.com/assets/s83076_ll_h3_aa.png" group-title="CINE PREMIUM",Starz Encore Suspense (1080)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9730
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Starz Encore Suspense (Z)" tvg-logo="http://fanc.tmsimg.com/assets/s83076_ll_h3_aa.png" group-title="CINE PREMIUM",Starz Encore Suspense (1080)
-http://canal-pro.xyz:8080/73177492/13012022/214
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Starz Family (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-eEgFDxMCYm8/Xbf6BQ5kAxI/AAAAAAAAAvQ/dtgBpkQi2Yg_N2MrsCndofbWOjPmk4ywQCLcBGAsYHQ/s200/61.png" group-title="CINE PREMIUM",Starz Family (1080)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9731
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Starz Family (M)(1080)" tvg-logo="https://1.bp.blogspot.com/-eEgFDxMCYm8/Xbf6BQ5kAxI/AAAAAAAAAvQ/dtgBpkQi2Yg_N2MrsCndofbWOjPmk4ywQCLcBGAsYHQ/s200/61.png" group-title="CINE PREMIUM",Starz Family (1080)
-http://canal-pro.xyz:8080/73177492/13012022/212
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Starz Cinema (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/48aa7c57897642baa964d953e5630a86.png" group-title="CINE PREMIUM",Starz Cinema (1080)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/17938
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Starz Edge West (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/92b5f338e9416e951d8facb93aa02b6d.png" group-title="CINE PREMIUM",Starz Edge West (1080)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/17940
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Starz Edge (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/92b5f338e9416e951d8facb93aa02b6d.png" group-title="CINE PREMIUM",Starz Edge West (1080)
-http://canal-pro.xyz:8080/73177492/13012022/209
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Starz Encore Action (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/d7670105e6d8b0bd34c9e52fbbab3158.png" group-title="CINE PREMIUM",Starz Encore Action (1080)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/17941
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Starz Encore Español (L)(1080)" tvg-logo="http://live.detodotvplay.com:8080/images/jkDf-QiMjV7brA6RQkqlNNKUh6GtmZDwoT1E4BGC8kNGNWCAua_ZCbGlLnwSWj5u.png" group-title="CINE PREMIUM",Starz Encore Español (1080)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/17942
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Starz Encore Suspense (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/811524595fcd0e4a9b991d8f29cbafdc.png" group-title="CINE PREMIUM",Starz Encore Suspense (1080)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/17943
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Starz InBlack (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/5a5c21bb4a73d286ba0c03ef1294e127.png" group-title="CINE PREMIUM",Starz InBlack (1080)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/17944
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Starz InBlack (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/5a5c21bb4a73d286ba0c03ef1294e127.png" group-title="CINE PREMIUM",Starz InBlack (1080)
-http://canal-pro.xyz:8080/73177492/13012022/210
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Starz Kids & Family (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/7d63340016cf627156aa959eb3616fa6.png" group-title="CINE PREMIUM",Starz Kids & Family (1080)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/17945
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Starz Encore Westerns (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/7ea703448541d8d51253e6051d1f7aab.png" group-title="CINE PREMIUM",Starz Encore Westerns (1080)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/17946
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Starz Encore Westerns (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/7ea703448541d8d51253e6051d1f7aab.png" group-title="CINE PREMIUM",Starz Encore Westerns (1080)
-http://canal-pro.xyz:8080/73177492/13012022/215
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Cinema (M)(1080) [Dual Audio]" tvg-logo="https://lh3.googleusercontent.com/-xjHq4RLu1gk/YgMWBy84XZI/AAAAAAAADNg/GdbsRVc8rt0bvu5IB9zOI1ptmADB5qycACNcBGAsYHQ/w200-h200/1644369412566727-2.png" group-title="CINE PREMIUM",Universal Cinema (1080) [Dual Audio]
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9757
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Cinema (Z)(1080)" tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png" group-title="CINE PREMIUM",Universal Cinema (1080)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9758
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Comedy (TV)(720)" tvg-logo="https://lh3.googleusercontent.com/-SoNWrnF8TnQ/YmxO2XzcUnI/AAAAAAAADg0/nXRD_Ja3KYoO4SJyp2gqQkeFYeWBqt1xwCNcBGAsYHQ/w200-h200/1651265240279800-54.png" group-title="CINE PREMIUM",Universal Comedy (720)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9759
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Comedy (Z)(720)" tvg-logo="https://i.pinimg.com/originals/21/a4/0b/21a40b26045eed8dd42a3d5b6245310a.png" group-title="CINE PREMIUM",Universal Comedy (720)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/9760
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Universal Premier (L)(720)" tvg-logo="https://lh3.googleusercontent.com/-LG2ri7fQLfc/YgMWEH-ycuI/AAAAAAAADNo/ASe9pUx6JxMEHmZuDP8fnteyPsU8ZBGigCNcBGAsYHQ/w200-h200/1644369421908968-0.png" group-title="CINE PREMIUM",Universal Premier (720)
-ttp://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/17950
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Ultra Cine (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/fe412bf2aebbf8a9d0375387fdc5de9e.png" group-title="CINE PREMIUM",Ultra Cine (1080)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/17951
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Ultra Clásico (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/473dec405225f0853138fa5bdc0959be.png" group-title="CINE PREMIUM",Ultra Clásico (1080)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/17952
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Ultra Docu (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/a73057cd1b736e729b3d7a1104c331ca.png" group-title="CINE PREMIUM",Ultra Docu (1080)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/17953
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Ultra Familia (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/109051065b1197d5094079345082f404.png" group-title="CINE PREMIUM",Ultra Familia (1080)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/17954
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Ultra Fiesta (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/e172a4bbeef1d8afd6232591432ecb77.png" group-title="CINE PREMIUM",Ultra Fiesta (1080)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/17955
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Ultra Kidz (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/3a7aa642549dad2767e4777a89207bd2.png" group-title="CINE PREMIUM",Ultra Kidz (1080)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/17956
-#EXTINF:-1 tvg-id="" tvg-name="CINE - Ultra Macho (L)(1080)" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4c/Ultra_Macho_2012.png/revision/latest/scale-to-width-down/300?cb=20220727235313&path-prefix=es" group-title="CINE PREMIUM",Ultra Macho (1080)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/17957
-#EXTINF:-1 tvg-id="" tvg-name="CINE -U ltra Mex (L)(1080)" tvg-logo="http://tv.proyectox.vip:8080/images/c53f4d62a4e0534b75542bc9cfa95b23.png" group-title="CINE PREMIUM",CINE-Ultra Mex (L)(1080)
-http://tv.proyectox.vip:8080/eduardomaldo/3Wrzsdwsv6/17958
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_13"
+#EXTINF:-1 tvg-id="TUDNUS.us" tvg-name="TUDN | US ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tudn-usa-hd.png" group-title="⭐⚽ DEPORTES",TUDN | US ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/3283.ts
+#EXTINF:-1 tvg-id="Univision.Telenovelas.us" tvg-name="UNIVISION TLNOVELAS ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/novelas/univision-tlnovelas-hd.png" group-title="TELENOVELAS",UNIVISION TLNOVELAS ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/29619.ts
+#EXTINF:-1 tvg-id="" tvg-name="CINE | PREMIUM ᴴᴰ" tvg-logo="https://nxt.plus:8443/images/IO7dltUMUfJvvxKGKS6oSmaqGEHAeiSHEBjiUPsJFmXlatQHBb5SjCxRTkpwXsQX7ewSKYq2bvBP8IF2WBtOca3BbAkQXNp2gSaPVF9HO-w.png" group-title="CINE PPV",CINE | PREMIUM ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/254567.ts
+#EXTINF:-1 tvg-id="" tvg-name="PELIMEX" tvg-logo="https://i.imgur.com/jEx4BBC.png" group-title="CINE / SERIES | SD",PELIMEX
+https://nxt.plus:8443/margaritaz/563329/255670.ts
+#EXTINF:-1 tvg-id="Movistar.Acción.es" tvg-name="C+ ACCION ᴴᴰ" tvg-logo="https://i.imgur.com/2gDPOft.png" group-title="CINE PPV",C+ ACCION ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/172487.ts
+#EXTINF:-1 tvg-id="13.TV.es" tvg-name="M+ ACCION ᴴᴰ" tvg-logo="https://i.imgur.com/2gDPOft.png" group-title="CINE PPV",M+ ACCION ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/172488.ts
+#EXTINF:-1 tvg-id="13.TV.es" tvg-name="M.ESTRENOS ᴴᴰ" tvg-logo="https://i.imgur.com/tzNIDcE.png" group-title="CINE PPV",M.ESTRENOS ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/172489.ts
+#EXTINF:-1 tvg-id="Hollywood.es" tvg-name="HOLLYWOOD ᴴᴰ" tvg-logo="https://i.imgur.com/oeCzU86.png" group-title="CINE PPV",HOLLYWOOD ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/172493.ts
+#EXTINF:-1 tvg-id="Movistar.Cine.Español.es" tvg-name="M+ DCINE ESPANOL ᴴᴰ" tvg-logo="https://i.imgur.com/B6k2QqC.png" group-title="CINE PPV",M+ DCINE ESPANOL ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/172495.ts
+#EXTINF:-1 tvg-id="1+1.Internacional.es" tvg-name="M.COMEDIA ᴴᴰ" tvg-logo="https://i.imgur.com/Jv5LNIR.png" group-title="CINE PPV",M.COMEDIA ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/172497.ts
+#EXTINF:-1 tvg-id="13.TV.es" tvg-name="MOVISTAR DRAMA ᴴᴰ" tvg-logo="https://i.imgur.com/MCRs6nY.png" group-title="CINE PPV",MOVISTAR DRAMA ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/172503.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ CLASICOS ᴴᴰ" tvg-logo="https://www.lyngsat.com/logo/tv/mm/mplus-clasicos-es.png" group-title="CINE PPV",M+ CLASICOS ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/172505.ts
+#EXTINF:-1 tvg-id="" tvg-name="M+ RESISTENCIA ᴴᴰ" tvg-logo="https://www.lyngsat.com/logo/tv/ll/la-resistencia-es.png" group-title="CINE PPV",M+ RESISTENCIA ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/172512.ts
+#EXTINF:-1 tvg-id="Movistar.Series.es" tvg-name="M.SERIES ᴴᴰ" tvg-logo="https://i.imgur.com/sHU7L6u.png" group-title="CINE PPV",M.SERIES ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/172521.ts
+#EXTINF:-1 tvg-id="" tvg-name="C+ SERIES 2 ᴴᴰ" tvg-logo="https://i.imgur.com/HPIBDEi.png" group-title="CINE PPV",C+ SERIES 2 ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/172523.ts
+#ciovodflex/nxt-guide/main/img/cine-series/warner-channel-hd.png" group-title="CINE / SERIES | HD",WARNER TV SUR ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/1024.ts
+#EXTINF:-1 tvg-id="ParamountNetworkPanregional.us" tvg-name="PARAMOUNT NETWORK ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/paramount-channel-hd.png" group-title="CINE / SERIES | HD",PARAMOUNT NETWORK ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/3268.ts
+#EXTINF:-1 tvg-id="History2LatinAmerica.us" tvg-name="HISTORY 2 ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/h2-hd.png" group-title="CULTURA",HISTORY 2 ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/9783.ts
+#EXTINF:-1 tvg-id="ComedyCentralLatinAmericaSouth.us" tvg-name="COMEDY CENTRAL ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/comedy-central-hd.png" group-title="CINE / SERIES | HD",COMEDY CENTRAL ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/9767.ts
+#EXTINF:-1 tvg-id="DiscoveryTheaterHDLatinAmerica.us" tvg-name="DISCOVERY THEATHER ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/discovery-theather-hd.png" group-title="CULTURA",DISCOVERY THEATHER ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/13969.ts
+#EXTINF:-1 tvg-id="EAndes.us" tvg-name="E! ENTERTAIMENT ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/variedades/e-entertainment-hd.png" group-title="VARIEDADES",E! ENTERTAIMENT ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/15302.ts
+#EXTINF:-1 tvg-id="CinemaxPanregional.us" tvg-name="CINEMAX ᴴᴰ" tvg-logo="https://nxt.plus:8443/images/aKOag9PS-AV97ssbXhmN5biOg62DrXPfiGgqwcADX4ZozVdOe0fM2ny4WdA8Klt7-YPrL73-XREwphc09Rzx73WTsB97TjvwxaMBu_xDnHxxTzTmq3Nph4Eonbpabiky.png" group-title="CINE / SERIES | HD",CINEMAX ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/16903.ts
+#EXTINF:-1 tvg-id="DisneyChannelCenter.us" tvg-name="DISNEY CHANNEL ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/infantil/disney-channel-hd.png" group-title="INFANTIL",DISNEY CHANNEL ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/16908.ts
+#EXTINF:-1 tvg-id="History.cl" tvg-name="HISTORY CHANNEL ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/history-hd.png" group-title="CULTURA",HISTORY CHANNEL ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/16917.ts
+#EXTINF:-1 tvg-id="AXNPacific.us" tvg-name="AXN SUR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/axn-hd.png" group-title="CINE / SERIES | HD",AXN SUR ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/1021.ts
+#EXTINF:-1 tvg-id="HBO.ar" tvg-name="HBO SUR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/hbo-hd.png" group-title="CINE / SERIES | HD",HBO SUR ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/16897.ts
+#EXTINF:-1 tvg-id="LifetimePanregional.us" tvg-name="LIFETIME" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/variedades/lifetime.png" group-title="VARIEDADES",LIFETIME
+https://nxt.plus:8443/margaritaz/563329/43547.ts
+#EXTINF:-1 tvg-id="FX.cl" tvg-name="FX ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/fx-hd.png" group-title="CINE / SERIES | HD",FX ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/3270.ts
+#EXTINF:-1 tvg-id="DiscoveryHomeHealthSouth.cl" tvg-name="DISCOVERY H&H ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/variedades/discovery-home-health-hd.png" group-title="VARIEDADES",DISCOVERY H&H ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/57255.ts
+#EXTINF:-1 tvg-id="AE.ar" tvg-name="A&E SUR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/ae-hd.png" group-title="CINE / SERIES | HD",A&E SUR ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/58123.ts
+#EXTINF:-1 tvg-id="CNNenEspanol.us" tvg-name="CNN EN ESPAÑOL ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/noticias/cnn-espanol.png" group-title="NOTICIAS",CNN EN ESPAÑOL ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/59075.ts
+#EXTINF:-1 tvg-id="DiscoveryWorldHDPanregional.us" tvg-name="DISCOVERY WORLD ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/discovery-world-hd.png" group-title="CULTURA",DISCOVERY WORLD ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/1639.ts
+#EXTINF:-1 tvg-id="Discovery.ar" tvg-name="DISCOVERY  ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/discovery-hd.png" group-title="CULTURA",DISCOVERY  ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/2826.ts
+#EXTINF:-1 tvg-id="NationalGeographic.gt" tvg-name="NAT GEO  ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/nat-geo-hd.png" group-title="CULTURA",NAT GEO  ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/43549.ts
+#EXTINF:-1 tvg-id="TelemundoCentralAmerica.us" tvg-name="TELEMUNDO INTERNACIONAL ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/variedades/telemundo-int-hd.png" group-title="VARIEDADES",TELEMUNDO INTERNACIONAL ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/24528.ts
+#EXTINF:-1 tvg-id="TelemundoCentralAmerica.us" tvg-name="TELEMUNDO INTERNACIONAL" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/variedades/telemundo-hd.png" group-title="VARIEDADES",TELEMUNDO INTERNACIONAL
+https://nxt.plus:8443/margaritaz/563329/43573.ts
+#EXTINF:-1 tvg-id="AztecaGuatemala.gt" tvg-name="UNIVERSAL TV ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/universal-hd.png" group-title="CINE / SERIES | HD",UNIVERSAL TV ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/3271.ts
+#EXTINF:-1 tvg-id="SpacePanregional.us" tvg-name="SPACE SUR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/space-hd.png" group-title="CINE / SERIES | HD",SPACE SUR ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/16922.ts
+#EXTINF:-1 tvg-id="TNTSeriesArgentina.ar" tvg-name="TNT SERIES ᴴᴰ" tvg-logo="https://nxt.plus:8443/images/aKOag9PS-AV97ssbXhmN5biOg62DrXPfiGgqwcADX4ZozVdOe0fM2ny4WdA8Klt7-YPrL73-XREwphc09Rzx73WTsB97TjvwxaMBu_xDnHxOt9pvAfHg14mpw7DG4gTOFyIHS8WSBWWXH-_-811_PQ.png" group-title="CINE / SERIES | HD",TNT SERIES ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/16925.ts
+#EXTINF:-1 tvg-id="TNTChile.cl" tvg-name="TNT SUR ᴴᴰ" tvg-logo="https://nxt.plus:8443/images/aKOag9PS-AV97ssbXhmN5biOg62DrXPfiGgqwcADX4ZozVdOe0fM2ny4WdA8Klt7-YPrL73-XREwphc09Rzx73WTsB97TjvwxaMBu_xDnHzGyCSvPEq084AxtWpYzsS7.png" group-title="CINE / SERIES | HD",TNT SUR ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/25213.ts
+#EXTINF:-1 tvg-id="CazayPesca.es" tvg-name="CAZA Y PESCA ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/caza-y-pesca-hd.png" group-title="⭐⚽ DEPORTES",CAZA Y PESCA ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/23121.ts
+#EXTINF:-1 tvg-id="AMCSouth.us" tvg-name="AMC SUR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/amc.png" group-title="CINE / SERIES | HD",AMC SUR ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/24818.ts
+#EXTINF:-1 tvg-id="Discovery.cl" tvg-name="DISCOVERY" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/discovery.png" group-title="CULTURA",DISCOVERY
+https://nxt.plus:8443/margaritaz/563329/59087.ts
+#EXTINF:-1 tvg-id="NationalGeographic.gt" tvg-name="NAT GEO" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/nat-geo.png" group-title="CULTURA",NAT GEO
+https://nxt.plus:8443/margaritaz/563329/59141.ts
+#EXTINF:-1 tvg-id="TLCLatinAmerica.us" tvg-name="TLC" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/variedades/tlc.png" group-title="VARIEDADES",TLC
+https://nxt.plus:8443/margaritaz/563329/43567.ts
+#EXTINF:-1 tvg-id="TNT Sport 2" tvg-name="TNT SPORTS PREMIUM | CL*" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tnt-sports-2-cl.png" group-title="⭐⚽ TNT SPORTS",TNT SPORTS PREMIUM | CL*
+https://nxt.plus:8443/margaritaz/563329/7.ts
+#EXTINF:-1 tvg-id="Canal.TLNovelas.(México).mx" tvg-name="TLNOVELAS | MX" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/novelas/tlnovelas.png" group-title="TELENOVELAS",TLNOVELAS | MX
+https://nxt.plus:8443/margaritaz/563329/169464.ts
+#EXTINF:-1 tvg-id="" tvg-name="INVESTIGATION DISCOVERY" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/discovery-id.png" group-title="CULTURA",INVESTIGATION DISCOVERY
+https://nxt.plus:8443/margaritaz/563329/169454.ts
+#EXTINF:-1 tvg-id="DiscoveryScienceLatinAmerica.us" tvg-name="DISCOVERY SCIENCE" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/discovery-science.png" group-title="CULTURA",DISCOVERY SCIENCE
+https://nxt.plus:8443/margaritaz/563329/43521.ts
+#EXTINF:-1 tvg-id="CanalClaro.sv" tvg-name="CANAL CLARO" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series-sd/canal-claro.png" group-title="CINE / SERIES | SD",CANAL CLARO
+https://nxt.plus:8443/margaritaz/563329/201927.ts
+#EXTINF:-1 tvg-id="Canal.De.Película.mx" tvg-name="DE PELICULA" tvg-logo="https://nxt.plus:8443/images/aKOag9PS-AV97ssbXhmN5biOg62DrXPfiGgqwcADX4ZozVdOe0fM2ny4WdA8Klt7-YPrL73-XREwphc09Rzx73WTsB97TjvwxaMBu_xDnHzTwIdeHdlxvzFnApAhnlSmvdc08Qj_rhUxA6was3jGXg.png" group-title="CINE / SERIES | SD",DE PELICULA
+#EXTINF:-1 tvg-id="Telemundo..-.Eastern.Feed.us" tvg-name="NBC UNIVERSO ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/us-latinos/nbc-universo-hd.png" group-title="US LATINOS",NBC UNIVERSO ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/225186.ts
+#EXTINF:-1 tvg-id="TCMPanregional.us" tvg-name="TCM ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/tcm.png" group-title="CINE / SERIES | HD",TCM ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/238289.ts
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://nxt.plus:8443/images/aKOag9PS-AV97ssbXhmN5biOg62DrXPfiGgqwcADX4ZozVdOe0fM2ny4WdA8Klt7-YPrL73-XREwphc09Rzx73WTsB97TjvwxaMBu_xDnHy83iYAuefHPcDqaGPQrovc.png" group-title="CINE / SERIES | SD",HBO
+https://nxt.plus:8443/margaritaz/563329/244801.ts
+#EXTINF:-1 tvg-id="TCMPanregional.us" tvg-name="TCM" tvg-logo="https://nxt.plus:8443/images/aKOag9PS-AV97ssbXhmN5biOg62DrXPfiGgqwcADX4ZozVdOe0fM2ny4WdA8Klt7-YPrL73-XREwphc09Rzx73WTsB97TjvwxaMBu_xDnHzN1sKQ1jZn6l9qb6Fet71G.png" group-title="CINE / SERIES | SD",TCM
+https://nxt.plus:8443/margaritaz/563329/13879.ts
+#EXTINF:-1 tvg-id="AE.ar" tvg-name="A&E" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/ae.png" group-title="CINE / SERIES | SD",A&E
+https://nxt.plus:8443/margaritaz/563329/43497.ts
+#EXTINF:-1 tvg-id="Golden.cl" tvg-name="GOLDEN" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/golden.png" group-title="CINE / SERIES | SD",GOLDEN
+https://nxt.plus:8443/margaritaz/563329/43534.ts
+#EXTINF:-1 tvg-id="HBO2.ar" tvg-name="HBO 2" tvg-logo="https://nxt.plus:8443/images/aKOag9PS-AV97ssbXhmN5biOg62DrXPfiGgqwcADX4ZozVdOe0fM2ny4WdA8Klt7-YPrL73-XREwphc09Rzx73WTsB97TjvwxaMBu_xDnHw7Al6M60LEa0ylSDDzShjX.png" group-title="CINE / SERIES | SD",HBO 2
+https://nxt.plus:8443/margaritaz/563329/43536.ts
+#EXTINF:-1 tvg-id="HBOFamilyLatinAmerica.us" tvg-name="HBO FAMILY" tvg-logo="https://nxt.plus:8443/images/aKOag9PS-AV97ssbXhmN5biOg62DrXPfiGgqwcADX4ZozVdOe0fM2ny4WdA8Klt7-YPrL73-XREwphc09Rzx73WTsB97TjvwxaMBu_xDnHyqx8xbommFHplCzZIAoVdw.png" group-title="CINE / SERIES | SD",HBO FAMILY
+https://nxt.plus:8443/margaritaz/563329/43537.ts
+#EXTINF:-1 tvg-id="HBOPlusLatinAmerica.us" tvg-name="HBO+" tvg-logo="https://nxt.plus:8443/images/aKOag9PS-AV97ssbXhmN5biOg62DrXPfiGgqwcADX4ZozVdOe0fM2ny4WdA8Klt7-YPrL73-XREwphc09Rzx73WTsB97TjvwxaMBu_xDnHwiJsHIIOioTzOA0ETkcitU.png" group-title="CINE / SERIES | SD",HBO+
+https://nxt.plus:8443/margaritaz/563329/43538.ts
+#EXTINF:-1 tvg-id="SonyChannelAndes.us" tvg-name="SONY CHANNEL" tvg-logo="https://nxt.plus:8443/images/aKOag9PS-AV97ssbXhmN5biOg62DrXPfiGgqwcADX4ZozVdOe0fM2ny4WdA8Klt7-YPrL73-XREwphc09Rzx73WTsB97TjvwxaMBu_xDnHz4MiqfuTYBVz2VIqVs_82T.png" group-title="CINE / SERIES | SD",SONY CHANNEL
+https://nxt.plus:8443/margaritaz/563329/43562.ts
+#EXTINF:-1 tvg-id="TNTAmericaLatina.us" tvg-name="TNT" tvg-logo="https://nxt.plus:8443/images/aKOag9PS-AV97ssbXhmN5biOg62DrXPfiGgqwcADX4ZozVdOe0fM2ny4WdA8Klt7-YPrL73-XREwphc09Rzx73WTsB97TjvwxaMBu_xDnHxZuZJQuTKprPx6i4k3ip-c.png" group-title="CINE / SERIES | SD",TNT
+https://nxt.plus:8443/margaritaz/563329/43568.ts
+#EXTINF:-1 tvg-id="TNTSeriesArgentina.ar" tvg-name="TNT SERIES" tvg-logo="https://nxt.plus:8443/images/aKOag9PS-AV97ssbXhmN5biOg62DrXPfiGgqwcADX4ZozVdOe0fM2ny4WdA8Klt7-YPrL73-XREwphc09Rzx73WTsB97TjvwxaMBu_xDnHz5WSmjg35QsjC9jTabx1p8.png" group-title="CINE / SERIES | SD",TNT SERIES
+https://nxt.plus:8443/margaritaz/563329/49314.ts
+#EXTINF:-1 tvg-id="Divinity.es" tvg-name="DIVINITY" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/divinity-es.png" group-title="CINE / SERIES | SD",DIVINITY
+https://nxt.plus:8443/margaritaz/563329/52884.ts
+#EXTINF:-1 tvg-id="CinemaxPanregional.us" tvg-name="CINEMAX" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/cinemax.png" group-title="CINE / SERIES | SD",CINEMAX
+https://nxt.plus:8443/margaritaz/563329/59083.ts
+#EXTINF:-1 tvg-id="HBOXtreme" tvg-name="HBO XTREME" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/hbo-xtreme.png" group-title="CINE / SERIES | SD",HBO XTREME
+https://nxt.plus:8443/margaritaz/563329/59123.ts
+#EXTINF:-1 tvg-id="ParamountNetworkPanregional.us" tvg-name="PARAMOUNT NETWORK" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/paramount-channel.png" group-title="CINE / SERIES | SD",PARAMOUNT NETWORK
+https://nxt.plus:8443/margaritaz/563329/59144.ts
+#EXTINF:-1 tvg-id="SpacePanregional.us" tvg-name="SPACE" tvg-logo="https://nxt.plus:8443/images/aKOag9PS-AV97ssbXhmN5biOg62DrXPfiGgqwcADX4ZozVdOe0fM2ny4WdA8Klt7-YPrL73-XREwphc09Rzx73WTsB97TjvwxaMBu_xDnHyjWsY3zoMLX3unVXcnvWB_.png" group-title="CINE / SERIES | SD",SPACE
+https://nxt.plus:8443/margaritaz/563329/59153.ts
+#EXTINF:-1 tvg-id="AXNPacific.us" tvg-name="AXN" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/axn.png" group-title="CINE / SERIES | SD",AXN
+https://nxt.plus:8443/margaritaz/563329/169433.ts
+#EXTINF:-1 tvg-id="Cinecanal.gt" tvg-name="CINECANAL" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/cinecanal.png" group-title="CINE / SERIES | SD",CINECANAL
+https://nxt.plus:8443/margaritaz/563329/169437.ts
+#EXTINF:-1 tvg-id="FX.cl" tvg-name="FX" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/fx.png" group-title="CINE / SERIES | SD",FX
+https://nxt.plus:8443/margaritaz/563329/169447.ts
+#EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-name="HBO POP" tvg-logo="https://nxt.plus:8443/images/aKOag9PS-AV97ssbXhmN5biOg62DrXPfiGgqwcADX4ZozVdOe0fM2ny4WdA8Klt7-YPrL73-XREwphc09Rzx73WTsB97TjvwxaMBu_xDnHyU2B-Hsi5od_R0rnoB6zqx.png" group-title="CINE / SERIES | SD",HBO POP
+https://nxt.plus:8443/margaritaz/563329/183273.ts
+#EXTINF:-1 tvg-id="GoldenEdgePanregional.mx" tvg-name="GOLDEN EDGE" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/golden-edge.png" group-title="CINE / SERIES | SD",GOLDEN EDGE
+https://nxt.plus:8443/margaritaz/563329/183277.ts
+#EXTINF:-1 tvg-id="AMCSouth.us" tvg-name="AMC SUR" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series-sd/amc.png" group-title="CINE / SERIES | SD",AMC SUR
+https://nxt.plus:8443/margaritaz/563329/187845.ts
+#EXTINF:-1 tvg-id="ComedyCentralLatinAmericaSouth.us" tvg-name="COMEDY CENTRAL" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series-sd/comedy-central.png" group-title="CINE / SERIES | SD",COMEDY CENTRAL
+https://nxt.plus:8443/margaritaz/563329/187877.ts
+#EXTINF:-1 tvg-id="AztecaGuatemala.gt" tvg-name="DISTRITO COMEDIA" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series-sd/distrito-comedia.png" group-title="CINE / SERIES | SD",DISTRITO COMEDIA
+https://nxt.plus:8443/margaritaz/563329/187888.ts
+#EXTINF:-1 tvg-id="Canal.2.de.Panamá.(TVN-2).pa" tvg-name="EUROCHANNEL" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series-sd/euro-channel.png" group-title="CINE / SERIES | SD",EUROCHANNEL
+https://nxt.plus:8443/margaritaz/563329/187905.ts
+#EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="EUROPA EUROPA" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series-sd/europa-europa.png" group-title="CINE / SERIES | SD",EUROPA EUROPA
+https://nxt.plus:8443/margaritaz/563329/187906.ts
+#EXTINF:-1 tvg-id="Canal.1.(Colombia).ar" tvg-name="FILM & ARTS" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series-sd/film-arts.png" group-title="CINE / SERIES | SD",FILM & ARTS
+https://nxt.plus:8443/margaritaz/563329/187909.ts
+#EXTINF:-1 tvg-id="HBOMundiLatinAmerica.us" tvg-name="HBO MUNDI" tvg-logo="https://nxt.plus:8443/images/aKOag9PS-AV97ssbXhmN5biOg62DrXPfiGgqwcADX4ZozVdOe0fM2ny4WdA8Klt7-YPrL73-XREwphc09Rzx73WTsB97TjvwxaMBu_xDnHxVMBe8q9ECE2Zc1Gy2YtK4o1YSQQM5b-3TH2d6k7w0rg.png" group-title="CINE / SERIES | SD",HBO MUNDI
+https://nxt.plus:8443/margaritaz/563329/187924.ts
+#EXTINF:-1 tvg-id="SonyChannelAndes.us" tvg-name="SONY MOVIES" tvg-logo="https://nxt.plus:8443/images/aKOag9PS-AV97ssbXhmN5biOg62DrXPfiGgqwcADX4ZozVdOe0fM2ny4WdA8Klt7-YPrL73-XREwphc09Rzx73WTsB97TjvwxaMBu_xDnHxvq--8_r4DMlyUuDvGdpJ7PLiH95cOSE5xTReY5tlRgw.png" group-title="CINE / SERIES | SD",SONY MOVIES
+https://nxt.plus:8443/margaritaz/563329/187966.ts
+#EXTINF:-1 tvg-id="WarnerChannelPanregional.us" tvg-name="WARNER TV" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series-sd/warner-channel.png" group-title="CINE / SERIES | SD",WARNER TV
+https://nxt.plus:8443/margaritaz/563329/188016.ts
+#EXTINF:-1 tvg-id="CO - Multipremier" tvg-name="MULTIPREMIER" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series-sd/multipremier.png" group-title="CINE / SERIES | SD",MULTIPREMIER
+https://nxt.plus:8443/margaritaz/563329/189605.ts
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="MULTICINEMA" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series-sd/multicinema.png" group-title="CINE / SERIES | SD",MULTICINEMA
+https://nxt.plus:8443/margaritaz/563329/189700.ts
+#EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-name="GOLDEN PREMIER" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/golden-premier.png" group-title="CINE / SERIES | SD",GOLDEN PREMIER
+https://nxt.plus:8443/margaritaz/563329/196524.ts
+#EXTINF:-1 tvg-id="Atreseries.es" tvg-name="A3 SERIES" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series-sd/a3-series.png" group-title="CINE / SERIES | SD",A3 SERIES
+https://nxt.plus:8443/margaritaz/563329/215713.ts
+#EXTINF:-1 tvg-id="1+1.Internacional.es" tvg-name="FOX | ES ᴴᴰ" tvg-logo="" group-title="CINE / SERIES | ESPAÑA",FOX | ES ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/172485.ts
+#EXTINF:-1 tvg-id="COSMO.es" tvg-name="COSMOPOLITAN ᴴᴰ" tvg-logo="" group-title="CINE / SERIES | ESPAÑA",COSMOPOLITAN ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/172486.ts
+#EXTINF:-1 tvg-id="Comedy.Central.es" tvg-name="COMEDY CENTRAL ᴴᴰ" tvg-logo="https://i.imgur.com/qMYhvNO.png" group-title="CINE / SERIES | ESPAÑA",COMEDY CENTRAL ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/172499.ts
+#EXTINF:-1 tvg-id="TCM.es" tvg-name="TCM | ES ᴴᴰ" tvg-logo="https://nxt.plus:8443/images/p7HyxOlTjMSC6g2MMXnxslkUjUlzKxY6XUQ639WHqqk.png" group-title="CINE / SERIES | ESPAÑA",TCM | ES ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/172506.ts
+#EXTINF:-1 tvg-id="AMC.es" tvg-name="AMC | ES ᴴᴰ" tvg-logo="https://i.imgur.com/71yscDB.png" group-title="CINE / SERIES | ESPAÑA",AMC | ES ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/172514.ts
+#EXTINF:-1 tvg-id="Paramount.Channel.es" tvg-name="PARAMOUNT ᴴᴰ" tvg-logo="https://i.imgur.com/uUwyLs3.png" group-title="CINE / SERIES | ESPAÑA",PARAMOUNT ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/172528.ts
+#EXTINF:-1 tvg-id="Sundance.es" tvg-name="SUNDANCE ᴴᴰ" tvg-logo="https://www.lyngsat.com/logo/tv/ss/sundance_tv_us.png" group-title="CINE / SERIES | ESPAÑA",SUNDANCE ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/172529.ts
+#EXTINF:-1 tvg-id="AXN.es" tvg-name="AXN | ES ᴴᴰ" tvg-logo="https://i.imgur.com/ARsdo5G.png" group-title="CINE / SERIES | ESPAÑA",AXN | ES ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/172531.ts
+#EXTINF:-1 tvg-id="13.TV.es" tvg-name="TNT ᴴᴰ" tvg-logo="https://nxt.plus:8443/images/p7HyxOlTjMSC6g2MMXnxshFvhZ_s2uh5_c_6HZwqHPY.png" group-title="CINE / SERIES | ESPAÑA",TNT ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/172535.ts
+#EXTINF:-1 tvg-id="13.TV.es" tvg-name="SYFY ᴴᴰ" tvg-logo="https://i.imgur.com/tb2bRB5.png" group-title="CINE / SERIES | ESPAÑA",SYFY ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/172538.ts
+#EXTINF:-1 tvg-id="EAndes.us" tvg-name="E! ENTERTAIMENT" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/variedades/e-entertainment.png" group-title="VARIEDADES",E! ENTERTAIMENT
+https://nxt.plus:8443/margaritaz/563329/187889.ts
+#EXTINF:-1 tvg-id="TNT Sports  Cile" tvg-name="TNT SPORTS PREMIUM | CL ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tnt-sports-fhd-cl.png" group-title="⭐⚽ TNT SPORTS",TNT SPORTS PREMIUM | CL ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/184411.ts
+#EXTINF:-1 tvg-id="" tvg-name="CLARO CINEMA ᴴᴰ" tvg-logo="" group-title="CINE / SERIES | HD",CLARO CINEMA ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/256110.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | LOS TRES CHIFLADOS" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",24/7 | LOS TRES CHIFLADOS
+https://nxt.plus:8443/margaritaz/563329/214265.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Mr. BEAN" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/cLFVKvALFrUVPQ6G51NlOMYprq7.jpg" group-title="24/7 NXT",24/7 | Mr. BEAN
+https://nxt.plus:8443/margaritaz/563329/214270.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | VICTORIOUS" tvg-logo="" group-title="24/7 NXT",24/7 | VICTORIOUS
+https://nxt.plus:8443/margaritaz/563329/236957.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Simpson" tvg-logo="https://w7.pngwing.com/pngs/389/717/png-transparent-the-simpsons-bart-simpson-marge-simpson-logo-simpsons-television-heroes-text.png" group-title="24/7 NXT",24/7 | Los Simpson
+https://nxt.plus:8443/margaritaz/563329/256023.ts
+#EXTINF:-1 tvg-id="247-CinemaAccion" tvg-name="24/7 | ACCIÓN" tvg-logo="https://w7.pngwing.com/pngs/422/671/png-transparent-action-film-cinema-computer-icons-action-movie-drama-film-action-film.png" group-title="24/7 CINEMA",24/7 | ACCIÓN
+https://nxt.plus:8443/margaritaz/563329/119347.ts
+#EXTINF:-1 tvg-id="247-Chespirito" tvg-name="24/7 | CHESPIRITO" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/canales-247/247-chespirito.png" group-title="24/7 NXT",24/7 | CHESPIRITO
+https://nxt.plus:8443/margaritaz/563329/91927.ts
+#EXTINF:-1 tvg-id="Bonanza.gen" tvg-name="24/7 | BONANZA" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/canales-247/247-bonanza.png" group-title="24/7 NXT",24/7 | BONANZA
+https://nxt.plus:8443/margaritaz/563329/91928.ts
+#EXTINF:-1 tvg-id="247-ElShowDeSnoopy.g" tvg-name="24/7 | EL SHOW DE SNOOPY" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",24/7 | EL SHOW DE SNOOPY
+https://nxt.plus:8443/margaritaz/563329/94206.ts
+#EXTINF:-1 tvg-id="247-Babys.gen" tvg-name="24/7 | BABYS" tvg-logo="https://w7.pngwing.com/pngs/2/624/png-transparent-three-boss-baby-character-the-boss-baby-alec-baldwin-character-animation-film-the-boss-baby-mammal-child-carnivoran-thumbnail.png" group-title="24/7 NXT",24/7 | BABYS
+https://nxt.plus:8443/margaritaz/563329/94554.ts
+#EXTINF:-1 tvg-id="247-CondePatula" tvg-name="24/7 | CONDE PÁTULA" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/canales-247/247-conde-patula.png" group-title="24/7 NXT",24/7 | CONDE PÁTULA
+https://nxt.plus:8443/margaritaz/563329/106000.ts
+#EXTINF:-1 tvg-id="247-ThunderCats" tvg-name="24/7 | THUNDERCATS" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",24/7 | THUNDERCATS
+https://nxt.plus:8443/margaritaz/563329/109547.ts
+#EXTINF:-1 tvg-id="247-DonGato" tvg-name="24/7 | DON GATO Y SU PANDILLA" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/canales-247/247-don-gato.png" group-title="24/7 NXT",24/7 | DON GATO Y SU PANDILLA
+https://nxt.plus:8443/margaritaz/563329/114413.ts
+#EXTINF:-1 tvg-id="247-PrincipeRap" tvg-name="24/7 | EL PRINCIPE DEL RAP" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/canales-247/247-el-principe-del-rap.png" group-title="24/7 NXT",24/7 | EL PRINCIPE DEL RAP
+https://nxt.plus:8443/margaritaz/563329/118617.ts
+#EXTINF:-1 tvg-id="247-Animaniacs" tvg-name="24/7 | ANIMANIACS" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/canales-247/247-animaniacs.png" group-title="24/7 NXT",24/7 | ANIMANIACS
+https://nxt.plus:8443/margaritaz/563329/118622.ts
+#EXTINF:-1 tvg-id="247-AlvinYLasArdilla" tvg-name="24/7 | ALVIN Y LAS ARDILLAS" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/canales-247/247-alvin-y-las-ardillas.png" group-title="24/7 NXT",24/7 | ALVIN Y LAS ARDILLAS
+https://nxt.plus:8443/margaritaz/563329/118623.ts
+#EXTINF:-1 tvg-id="247-TortugasNinja" tvg-name="24/7 | LAS TORTUGAS NINJAS" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",24/7 | LAS TORTUGAS NINJAS
+https://nxt.plus:8443/margaritaz/563329/119340.ts
+#EXTINF:-1 tvg-id="247-Snorks" tvg-name="24/7 | LOS SNORKS" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",24/7 | LOS SNORKS
+https://nxt.plus:8443/margaritaz/563329/119352.ts
+#EXTINF:-1 tvg-id="247-DragonBallGT" tvg-name="24/7 | DRAGON BALL GT" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/canales-247/247-dragon-ball-gt.png" group-title="24/7 NXT",24/7 | DRAGON BALL GT
+https://nxt.plus:8443/margaritaz/563329/122334.ts
+#EXTINF:-1 tvg-id="247-Aladin" tvg-name="24/7 | ALADDIN" tvg-logo="http://image.tmdb.org/t/p/w600_and_h900_bestv2/hCG4XP7SDDOHGLztXh62XCbG6tj.jpg" group-title="24/7 NXT",24/7 | ALADDIN
+https://nxt.plus:8443/margaritaz/563329/140886.ts
+#EXTINF:-1 tvg-id="247-Dinosaurios" tvg-name="24/7 | DINOSAURIOS" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/canales-247/247-dinosaurios.png" group-title="24/7 NXT",24/7 | DINOSAURIOS
+https://nxt.plus:8443/margaritaz/563329/140889.ts
+#EXTINF:-1 tvg-id="247-PanteraRosa" tvg-name="24/7 | LA PANTERA ROSA" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",24/7 | LA PANTERA ROSA
+https://nxt.plus:8443/margaritaz/563329/140916.ts
+#EXTINF:-1 tvg-id="247-BugsBunny" tvg-name="24/7 | BUGS BUNNY" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/canales-247/247-bugs-bunny.png" group-title="24/7 NXT",24/7 | BUGS BUNNY
+https://nxt.plus:8443/margaritaz/563329/160240.ts
+#EXTINF:-1 tvg-id="247-LooneyToons2020" tvg-name="24/7 | LOONEY TUNES" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",24/7 | LOONEY TUNES
+https://nxt.plus:8443/margaritaz/563329/161586.ts
+#EXTINF:-1 tvg-id="247-DragonBallSuper" tvg-name="24/7 | DRAGON BALL SUPER" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/canales-247/247-dragon-ball-super.png" group-title="24/7 NXT",24/7 | DRAGON BALL SUPER
+https://nxt.plus:8443/margaritaz/563329/177641.ts
+#EXTINF:-1 tvg-id="247-Comedia.gen" tvg-name="24/7 | COMEDIA" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",24/7 | COMEDIA
+https://nxt.plus:8443/margaritaz/563329/177644.ts
+#EXTINF:-1 tvg-id="247-DragonBall.gen" tvg-name="24/7 | DRAGON BALL" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/canales-247/247-dragon-ball.png" group-title="24/7 NXT",24/7 | DRAGON BALL
+https://nxt.plus:8443/margaritaz/563329/214261.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | MUNDO INFANTIL" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",24/7 | MUNDO INFANTIL
+https://nxt.plus:8443/margaritaz/563329/214264.ts
+#EXTINF:-1 tvg-id="247-DisneyCinema1" tvg-name="24/7 | DISNEY PIXAR" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",24/7 | DISNEY PIXAR
+https://nxt.plus:8443/margaritaz/563329/214275.ts
+#EXTINF:-1 tvg-id="247-DisneyClasico" tvg-name="24/7 | CLÁSICOS DE DISNEY" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",24/7 | CLÁSICOS DE DISNEY
+https://nxt.plus:8443/margaritaz/563329/214276.ts
+#EXTINF:-1 tvg-id="247-CaricaturasClasi" tvg-name="24/7 | CARICATURAS CLÁSICAS" tvg-logo="https://mobiletv.mobibase.com/html/logo/hd/channel_ld_724.png" group-title="24/7 NXT",24/7 | CARICATURAS CLÁSICAS
+https://nxt.plus:8443/margaritaz/563329/214277.ts
+#EXTINF:-1 tvg-id="247-CasoCerrado" tvg-name="24/7 | CASO CERRADO" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/canales-247/247-caso-cerrado.png" group-title="24/7 NXT",24/7 | CASO CERRADO
+https://nxt.plus:8443/margaritaz/563329/223730.ts
+#EXTINF:-1 tvg-id="247-TerceraEnDiscord" tvg-name="24/7 | LA TERCERA EN DISCORDIA" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",24/7 | LA TERCERA EN DISCORDIA
+https://nxt.plus:8443/margaritaz/563329/224252.ts
+#EXTINF:-1 tvg-id="247-LoQueCallamosMuj" tvg-name="24/7 | LO QUE CALLAMOS LAS MUJERES" tvg-logo="https://i.postimg.cc/3x8bmTzJ/LOGO-247.png" group-title="24/7 NXT",24/7 | LO QUE CALLAMOS LAS MUJERES
+https://nxt.plus:8443/margaritaz/563329/224509.ts
+#EXTINF:-1 tvg-id="Power.Rangers.247" tvg-name="24/7 | POWER RANGERS" tvg-logo="https://i.ibb.co/YDt3QMK/gjtoici5m5g43ctxerirhlqzp4.png" group-title="24/7 NXT",24/7 | POWER RANGERS
+https://nxt.plus:8443/margaritaz/563329/225110.ts
+#EXTINF:-1 tvg-id="24/7-Encantador-perr" tvg-name="24/7 | EL ENCANTADOR DE PERROS" tvg-logo="" group-title="24/7 NXT",24/7 | EL ENCANTADOR DE PERROS
+https://nxt.plus:8443/margaritaz/563329/225257.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | SÁBADO GIGANTE" tvg-logo="https://i.ibb.co/q5qFbk8/sabado-gigante1.png" group-title="24/7 NXT",24/7 | SÁBADO GIGANTE
+https://nxt.plus:8443/margaritaz/563329/227464.ts
+#EXTINF:-1 tvg-id="247-iCarly2007" tvg-name="24/7 | ICARLY" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/6d/Icarly_logo.svg/1200px-Icarly_logo.svg.png" group-title="24/7 NXT",24/7 | ICARLY
+https://nxt.plus:8443/margaritaz/563329/236956.ts
+#EXTINF:-1 tvg-id="247-ChapulinColorado" tvg-name="24/7 | EL CHAPULIN COLORADO" tvg-logo="https://static-cdn.jtvnw.net/jtv_user_pictures/f4012dc6-098a-42df-9fe8-efc0d930ba89-profile_image-150x150.png" group-title="24/7 NXT",24/7 | EL CHAPULIN COLORADO
+https://nxt.plus:8443/margaritaz/563329/236960.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | GAGS" tvg-logo="" group-title="24/7 NXT",24/7 | GAGS
+https://nxt.plus:8443/margaritaz/563329/244034.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | CINEMA 01" tvg-logo="" group-title="24/7 CINEMA",24/7 | CINEMA 01
+https://nxt.plus:8443/margaritaz/563329/256116.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Simpson II" tvg-logo="" group-title="24/7 NXT",24/7 | Los Simpson II
+https://nxt.plus:8443/margaritaz/563329/256824.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | AMAZON PRIME VIDEO Peliculas ⁽ᴴᴰ⁾" tvg-logo="" group-title="24/7 CINEMA",24/7 | AMAZON PRIME VIDEO Peliculas ⁽ᴴᴰ⁾
+https://nxt.plus:8443/margaritaz/563329/258945.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | El Chavo del Ocho" tvg-logo="" group-title="24/7 NXT",24/7 | El Chavo del Ocho
+https://nxt.plus:8443/margaritaz/563329/259070.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Vecinos" tvg-logo="" group-title="24/7 NXT",24/7 | Vecinos
+https://nxt.plus:8443/margaritaz/563329/259495.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Jessie" tvg-logo="" group-title="24/7 NXT",24/7 | Jessie
+https://nxt.plus:8443/margaritaz/563329/259506.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | La familia P. Luche" tvg-logo="" group-title="24/7 NXT",24/7 | La familia P. Luche
+https://nxt.plus:8443/margaritaz/563329/259603.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Bluey" tvg-logo="" group-title="24/7 NXT",24/7 | Bluey
+https://nxt.plus:8443/margaritaz/563329/260135.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Bob Esponja" tvg-logo="" group-title="24/7 NXT",24/7 | Bob Esponja
+https://nxt.plus:8443/margaritaz/563329/260427.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | El Zorro | 1990" tvg-logo="" group-title="24/7 NXT",24/7 | El Zorro | 1990
+https://nxt.plus:8443/margaritaz/563329/260820.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Manny a la obra" tvg-logo="" group-title="24/7 NXT",24/7 | Manny a la obra
+https://nxt.plus:8443/margaritaz/563329/261442.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los Picapiedra" tvg-logo="" group-title="24/7 NXT",24/7 | Los Picapiedra
+https://nxt.plus:8443/margaritaz/563329/261624.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | Los pitufos" tvg-logo="" group-title="24/7 NXT",24/7 | Los pitufos
+https://nxt.plus:8443/margaritaz/563329/261625.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Tom & Jerry" tvg-logo="https://w7.pngwing.com/pngs/28/710/png-transparent-tom-and-jerry-tom-and-jerry-heroes-logo-fictional-character.png" group-title="24/7 NXT",24/7 Tom & Jerry
+https://nxt.plus:8443/margaritaz/563329/263117.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 | TURCAS" tvg-logo="https://scontent-scl2-1.xx.fbcdn.net/v/t39.30808-6/305620929_213370727681169_1803559809763322614_n.png?_nc_cat=103&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=51kRph9GKo4Q7kNvwHVigLF&_nc_oc=AdmAf6JSk_0XLjK5OMXGQsY4ULVb8vMWQ5Pb_DrJJzdgLbIiU_asTq-TnaChdmViUgd6p1ZRqtshg_og16JvaQ7D&_nc_zt=23&_nc_ht=scontent-scl2-1.xx&_nc_gid=qGzR5ZKyjWqTZcUVbC44rA&oh=00_AfSeARxmW36jJndN2dPf_kJWFwvR2AHyVzYuzdAE7iA4KQ&oe=6891C270" group-title="24/7 NXT",24/7 | TURCAS
+https://nxt.plus:8443/margaritaz/563329/265444.ts
+#EXTINF:-1 tvg-id="History.cl" tvg-name="HISTORY CHANNEL" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/history.png" group-title="CULTURA",HISTORY CHANNEL
+https://nxt.plus:8443/margaritaz/563329/169453.ts
+#EXTINF:-1 tvg-id="History2LatinAmerica.us" tvg-name="HISTORY 2" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/h2-hd.png" group-title="CULTURA",HISTORY 2
+#EXTINF:-1 tvg-id="Claro Sports" tvg-name="CLARO SPORTS 1 ᴴᴰ" tvg-logo="https://nxt.plus:8443/images/aKOag9PS-AV97ssbXhmN5biOg62DrXPfiGgqwcADX4ZozVdOe0fM2ny4WdA8Klt7-YPrL73-XREwphc09Rzx74MrMF-FuCUEU_qTmqjMjzJR7oxS5K3o7p6Xl3on4oROcMh4H3WL2ZqMiEz5yo3kpg.png" group-title="⭐⚽ DEPORTES",CLARO SPORTS 1 ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/59084.ts
+#EXTINF:-1 tvg-id="ESPN.MX.mx" tvg-name="ESPN 1 | MX ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-1-mx-hd.png" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN 1 | MX ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/166748.ts
+#EXTINF:-1 tvg-id="SV - ESPN 2" tvg-name="ESPN 2 | NORTE ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-2-centro-hd.png" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN 2 | NORTE ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/25210.ts
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="ESPN 2 | MX ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-2-mx-hd.png" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN 2 | MX ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/134386.ts
+#EXTINF:-1 tvg-id="GT - ESPN 3" tvg-name="ESPN 3 | NORTE ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-3-centro-hd.png" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN 3 | NORTE ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/25211.ts
+#EXTINF:-1 tvg-id="ESPN3.mx" tvg-name="ESPN 3 | MX ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-3-mx-hd.png" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN 3 | MX ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/29764.ts
+#EXTINF:-1 tvg-id="Canal.ESPN.4.(Costa.Rica).cr" tvg-name="ESPN 4 | NORTE ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-4-sur.png" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN 4 | NORTE ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/763.ts
+#EXTINF:-1 tvg-id="ESPN.Deportes.us" tvg-name="ESPN DEPORTES ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/espn-deportes-hd.png" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN DEPORTES ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/160760.ts
+#EXTINF:-1 tvg-id="Fox.Deportes.us" tvg-name="FOX DEPORTES | US ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fox-deportes-us-hd.png" group-title="⭐⚽ ESPN / FOX SPORTS",FOX DEPORTES | US ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/58606.ts
+#EXTINF:-1 tvg-id="FOX.Sports.Premium.MEXICO.mx" tvg-name="FOX SPORTS PREMIUM | MX ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fox-sports-premium-mx-hd.png" group-title="⭐⚽ ESPN / FOX SPORTS",FOX SPORTS PREMIUM | MX ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/29785.ts
+#EXTINF:-1 tvg-id="Spectrum.SportsNet.us" tvg-name="FS 1 | US ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fs1-usa-hd.png" group-title="⭐⚽ ESPN / FOX SPORTS",FS 1 | US ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/65714.ts
+#EXTINF:-1 tvg-id="Spectrum.SportsNet.us" tvg-name="FS 2 | US ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espn-foxsports/fs2-usa-hd.png" group-title="⭐⚽ ESPN / FOX SPORTS",FS 2 | US ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/80566.ts
+#EXTINF:-1 tvg-id="Canal.ESPN.6.(Costa.Rica).cr" tvg-name="ESPN 6 | NORTE ᴴᴰ" tvg-logo="https://i.ibb.co/N3GFd8w/espn-6-america-latina.png" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN 6 | NORTE ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/223986.ts
+#EXTINF:-1 tvg-id="Canal.ESPN.5.(República.Dominicana).dk" tvg-name="ESPN 5 | NORTE ᴴᴰ" tvg-logo="" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN 5 | NORTE ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/245771.ts
+#EXTINF:-1 tvg-id="ESPND" tvg-name="ESPN DEPORTES" tvg-logo="http://www.tmsimg.com/assets/s25595_ll_h3_aa.png" group-title="⭐⚽ ESPN / FOX SPORTS",ESPN DEPORTES
+https://nxt.plus:8443/margaritaz/563329/259084.ts
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 3 | CL" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tnt-sports-3-cl.png" group-title="⭐⚽ TNT SPORTS",TNT SPORTS 3 | CL
+https://nxt.plus:8443/margaritaz/563329/187979.ts
+#EXTINF:-1 tvg-id="TNT Sport 2" tvg-name="TNT SPORTS | CL ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/tnt-sports-2-cl.png" group-title="⭐⚽ TNT SPORTS",TNT SPORTS | CL ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/191452.ts
+#EXTINF:-1 tvg-id="ImagenTv.mx" tvg-name="IMAGEN TV ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/mexico/imagen-tv-hd.png" group-title="MÉXICO",IMAGEN TV ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/159491.ts
+#EXTINF:-1 tvg-id="13.TV.es" tvg-name="#0 ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espana/0.png" group-title="ESPAÑA",#0 ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/60285.ts
+#EXTINF:-1 tvg-id="Milenio.mx" tvg-name="MILENIO TV" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/mexico/milenio-tv.png" group-title="MÉXICO",MILENIO TV
+https://nxt.plus:8443/margaritaz/563329/160533.ts
+#EXTINF:-1 tvg-id="DAZN.LALIGA.2.es" tvg-name="DAZN LALIGA 2 ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/dazn-movistar-sky/dazn-laliga2-hd.png" group-title="⭐⚽ DAZN / MOVISTAR / SKY",DAZN LALIGA 2 ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/56867.ts
+#EXTINF:-1 tvg-id="M+.Deportes.3.es" tvg-name="MOVISTAR DEPORTES 3 | ES ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/dazn-movistar-sky/movistar-deportes3-hd.png" group-title="⭐⚽ DAZN / MOVISTAR / SKY",MOVISTAR DEPORTES 3 | ES ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/60391.ts
+#EXTINF:-1 tvg-id="M+.Deportes.2.es" tvg-name="MOVISTAR DEPORTES 2 | ES ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/dazn-movistar-sky/movistar-deportes2-hd.png" group-title="⭐⚽ DAZN / MOVISTAR / SKY",MOVISTAR DEPORTES 2 | ES ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/60437.ts
+#EXTINF:-1 tvg-id="DAZN.F1.es" tvg-name="DAZN F1 ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/dazn-movistar-sky/dazn-f1.png" group-title="⭐⚽ DAZN / MOVISTAR / SKY",DAZN F1 ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/60439.ts
+#EXTINF:-1 tvg-id="DePeliculaClasico.mx" tvg-name="DE PELICULA CLASICO ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/de-pelicula-clasico.png" group-title="CINE / SERIES | HD",DE PELICULA CLASICO ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/65203.ts
+#EXTINF:-1 tvg-id="DePeliculaLatinAmerica.mx" tvg-name="DE PELÍCULA ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/de-pelicula.png" group-title="CINE / SERIES | HD",DE PELÍCULA ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/43492.ts
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="DE PELÍCULA+ ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/de-pelicula-plus-hd.png" group-title="CINE / SERIES | HD",DE PELÍCULA+ ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/43494.ts
+#EXTINF:-1 tvg-id="DHE.mx" tvg-name="DHE ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/dhe.png" group-title="CINE / SERIES | HD",DHE ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/16929.ts
+#EXTINF:-1 tvg-id="GoldenPlus.mx" tvg-name="GOLDEN PLUS ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/golden-plus-hd.png" group-title="CINE / SERIES | HD",GOLDEN PLUS ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/9771.ts
+#EXTINF:-1 tvg-id="GoldenPremier2.mx" tvg-name="GOLDEN PREMIER 2 ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/golden-premier-2.png" group-title="CINE / SERIES | HD",GOLDEN PREMIER 2 ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/59491.ts
+#EXTINF:-1 tvg-id="HBO2.ar" tvg-name="HBO 2 ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/hbo-2-hd.png" group-title="CINE / SERIES | HD",HBO 2 ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/7090.ts
+#EXTINF:-1 tvg-id="HBOFamily.la" tvg-name="HBO FAMILY ᴴᴰ" tvg-logo="https://nxt.plus:8443/images/aKOag9PS-AV97ssbXhmN5biOg62DrXPfiGgqwcADX4ZozVdOe0fM2ny4WdA8Klt7-YPrL73-XREwphc09Rzx73WTsB97TjvwxaMBu_xDnHx74PayfaxUAUuNZMJ3lpiVNbrh60By9M726JGHklRwvA.png" group-title="CINE / SERIES | HD",HBO FAMILY ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/3273.ts
+#EXTINF:-1 tvg-id="HBOPopLatinAmerica.us" tvg-name="HBO POP ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/hbo-pop-hd.png" group-title="CINE / SERIES | HD",HBO POP ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/16902.ts
+#EXTINF:-1 tvg-id="HBOPlus.mx" tvg-name="HBO+ ᴴᴰ" tvg-logo="https://nxt.plus:8443/images/aKOag9PS-AV97ssbXhmN5biOg62DrXPfiGgqwcADX4ZozVdOe0fM2ny4WdA8Klt7-YPrL73-XREwphc09Rzx73WTsB97TjvwxaMBu_xDnHzIGKjZ-cbpqjGlMSvm6U-CvLb63jciIQXwX86qdbH15Q.png" group-title="CINE / SERIES | HD",HBO+ ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/16900.ts
+#EXTINF:-1 tvg-id="CineSony.us" tvg-name="SONY CHANNEL  AR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/sony-hd.png" group-title="CINE / SERIES | HD",SONY CHANNEL  AR ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/27799.ts
+#EXTINF:-1 tvg-id="STAR.CHANNEL.uy" tvg-name="STAR CHANNEL  *ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/star-channel-hd.png" group-title="CINE / SERIES | HD",STAR CHANNEL  *ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/118115.ts
+#EXTINF:-1 tvg-id="CGTN Español" tvg-name="CGTN EN ESPAÑOL" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/variedades/cgtn-en-espanol.png" group-title="VARIEDADES",CGTN EN ESPAÑOL
+https://nxt.plus:8443/margaritaz/563329/18006.ts
+#EXTINF:-1 tvg-id="Discovery.Familia.us" tvg-name="DISCOVERY FAMILIA ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/variedades/discovery-familia-hd.png" group-title="VARIEDADES",DISCOVERY FAMILIA ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/29723.ts
+#EXTINF:-1 tvg-id="ElGourmetPanregional.ar" tvg-name="EL GOURMET ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/variedades/el-gourmet-hd.png" group-title="VARIEDADES",EL GOURMET ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/3425.ts
+#EXTINF:-1 tvg-id="HolaTVLatinAmerica.es" tvg-name="HOLA TV! ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/variedades/hola-tv-hd.png" group-title="MÉXICO",HOLA TV! ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/17060.ts
+#EXTINF:-1 tvg-id="MasChicPanregional.ar" tvg-name="MAS CHIC" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/variedades/mas-chic.png" group-title="VARIEDADES",MAS CHIC
+https://nxt.plus:8443/margaritaz/563329/17829.ts
+#EXTINF:-1 tvg-id="GT - Distrito Comedia" tvg-name="DISTRITO COMEDIA ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/distrito-comedia-hd.png" group-title="CINE / SERIES | HD",DISTRITO COMEDIA ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/59612.ts
+#EXTINF:-1 tvg-id="CineLatino.mx" tvg-name="CINE LATINO ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/cine-latino.png" group-title="CINE / SERIES | HD",CINE LATINO ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/24648.ts
+#EXTINF:-1 tvg-id="HGTV.co" tvg-name="HGTV ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/variedades/hgtv.png" group-title="VARIEDADES",HGTV ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/59124.ts
+#EXTINF:-1 tvg-id="DAZN.LALIGA.es" tvg-name="DAZN LALIGA 1 ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/dazn-movistar-sky/dazn-laliga1-hd.png" group-title="⭐⚽ DAZN / MOVISTAR / SKY",DAZN LALIGA 1 ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/56866.ts
+#EXTINF:-1 tvg-id="DAZN.2.es" tvg-name="DAZN 2 ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/dazn-movistar-sky/dazn2-hd.png" group-title="⭐⚽ DAZN / MOVISTAR / SKY",DAZN 2 ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/25277.ts
+#EXTINF:-1 tvg-id="DAZN.4.es" tvg-name="DAZN 4 ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/dazn-movistar-sky/dazn4-hd.png" group-title="⭐⚽ DAZN / MOVISTAR / SKY",DAZN 4 ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/28956.ts
+#EXTINF:-1 tvg-id="HGTV.co" tvg-name="HGTV" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/variedades/hgtv.png" group-title="VARIEDADES",HGTV
+https://nxt.plus:8443/margaritaz/563329/160515.ts
+#EXTINF:-1 tvg-id="CTI-Zhong.Tian.Channel.us" tvg-name="TELEMUNDO ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/us-latinos/telemundo.png" group-title="US LATINOS",TELEMUNDO ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/187997.ts
+#EXTINF:-1 tvg-id="France24Espanol.fr" tvg-name="FRANCE 24" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/noticias/france-24.png" group-title="FRANCIA",FRANCE 24
+https://nxt.plus:8443/margaritaz/563329/187913.ts
+#EXTINF:-1 tvg-id="Peru.pe" tvg-name="GLOBAL" tvg-logo="https://www.lyngsat.com/logo/tv/gg/global-tv-pe.png" group-title="PERÚ",GLOBAL
+https://nxt.plus:8443/margaritaz/563329/187914.ts
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="LAS ESTRELLAS" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/mexico/las-estrellas.png" group-title="MÉXICO",LAS ESTRELLAS
+https://nxt.plus:8443/margaritaz/563329/187938.ts
+#EXTINF:-1 tvg-id="ImagenTv.mx" tvg-name="IMAGEN TV" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/mexico/imagen-tv-hd.png" group-title="MÉXICO",IMAGEN TV
+https://nxt.plus:8443/margaritaz/563329/189004.ts
+#EXTINF:-1 tvg-id="IFC.HDTV.(East).us" tvg-name="ANIMAL PLANET | US ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/us-locals/animal-planet-us-hd.png" group-title="US LOCALS",ANIMAL PLANET | US ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/64517.ts
+#EXTINF:-1 tvg-id="CO - Multipremier" tvg-name="MULTIPREMIER ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/multipremier-hd.png" group-title="CINE / SERIES | HD",MULTIPREMIER ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/189604.ts
+#EXTINF:-1 tvg-id="Golden.cl" tvg-name="GOLDEN ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/golden.png" group-title="CINE / SERIES | HD",GOLDEN ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/9769.ts
+#EXTINF:-1 tvg-id="Canal.2.de.Panamá.(TVN-2).pa" tvg-name="TVE" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/espana/tve-internacional.png" group-title="ESPAÑA",TVE
+https://nxt.plus:8443/margaritaz/563329/169462.ts
+#EXTINF:-1 tvg-id="RPP.HD.(RPP.HD).pe" tvg-name="RPP" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/peru/rpp.png" group-title="PERÚ",RPP
+https://nxt.plus:8443/margaritaz/563329/169457.ts
+#EXTINF:-1 tvg-id="GoldenEdgePanregional.mx" tvg-name="GOLDEN EDGE ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/golden-edge.png" group-title="CINE / SERIES | HD",GOLDEN EDGE ᴴᴰ
+#EXTINF:-1 tvg-id="Canal.5.de.México.(XHGC).mx" tvg-name="CANAL 5 | MX ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/mexico/canal-5-hd.png" group-title="MÉXICO",CANAL 5 | MX ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/59603.ts
+#EXTINF:-1 tvg-id="AzCinema.mx" tvg-name="AZ CINEMA ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/az-cinema.png" group-title="CINE / SERIES | HD",AZ CINEMA ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/160510.ts
+#EXTINF:-1 tvg-id="Travel.US.-.East.us" tvg-name="TNT | US ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/us-locals/tnt-east-us-hd.png" group-title="US LOCALS",TNT | US ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/169280.ts
+#EXTINF:-1 tvg-id="AnimalPlanet.mx" tvg-name="ANIMAL PLANET MX ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cultura/animal-planet.png" group-title="CULTURA",ANIMAL PLANET MX ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/242683.ts
+#EXTINF:-1 tvg-id="Canal.ADN.40.mx" tvg-name="ADN40 ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/mexico/adn40-hd.png" group-title="MÉXICO",ADN40 ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/227048.ts
+#EXTINF:-1 tvg-id="Canal.Azteca.Uno.mx" tvg-name="AZTECA 7 ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/mexico/azteca-7-hd.png" group-title="MÉXICO",AZTECA 7 ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/237828.ts
+#EXTINF:-1 tvg-id="Canal.a+.mx" tvg-name="A + ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/mexico/a-mas-hd.png" group-title="MÉXICO",A + ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/257115.ts
+#EXTINF:-1 tvg-id="Canal.9.de.México.(XEQ-TDT).mx" tvg-name="NUEVE ᴴᴰ" tvg-logo="https://nxt.plus:8443/images/aKOag9PS-AV97ssbXhmN5biOg62DrXPfiGgqwcADX4ZozVdOe0fM2ny4WdA8Klt7-YPrL73-XREwphc09Rzx754IlLApqEQq13v1Azc7f32ZR5Buvb0SefvRyBwMT_fS.png" group-title="MÉXICO",NUEVE ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/257129.ts
+#EXTINF:-1 tvg-id="Canal.Telefórmula.mx" tvg-name="TELEFORMULA ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/mexico/teleformula-hd.png" group-title="MÉXICO",TELEFORMULA ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/257130.ts
+#EXTINF:-1 tvg-id="GoldenPremier.mx" tvg-name="GOLDEN PREMIER 1 ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/golden-premier.png" group-title="CINE / SERIES | HD",GOLDEN PREMIER 1 ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/59490.ts
+#EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="CINE PREMIERE ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/cine-premiere-hd.png" group-title="CINE PPV",CINE PREMIERE ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/207237.ts
+#EXTINF:-1 tvg-id="" tvg-name="FUEL TV ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/deportes/fuel-tv-hd.png" group-title="⭐⚽ DEPORTES",FUEL TV ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/207348.ts
+#EXTINF:-1 tvg-id="UNIVERSAL REALITY MX" tvg-name="UNIVERSAL REALITY  ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/universal-reality-hd.png" group-title="CINE / SERIES | HD",UNIVERSAL REALITY  ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/16923.ts
+#EXTINF:-1 tvg-id="HBOSignature.la" tvg-name="HBO SIGNATURE ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/hbo-signature-hd.png" group-title="CINE / SERIES | HD",HBO SIGNATURE ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/16898.ts
+#EXTINF:-1 tvg-id="HBOSignature.la" tvg-name="HBO SIGNATURE" tvg-logo="https://nxt.plus:8443/images/aKOag9PS-AV97ssbXhmN5biOg62DrXPfiGgqwcADX4ZozVdOe0fM2ny4WdA8Klt7-YPrL73-XREwphc09Rzx73WTsB97TjvwxaMBu_xDnHwYo1eLZKeNnGBeuFn3-leYNWwnn_j4wPCr4_ATDai6-A.png" group-title="CINE / SERIES | SD",HBO SIGNATURE
+https://nxt.plus:8443/margaritaz/563329/13894.ts
+#EXTINF:-1 tvg-id="AztecaGuatemala.gt" tvg-name="UNIVERSAL CINEMA ESTE ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/universal-cinema-hd.png" group-title="CINE / SERIES | HD",UNIVERSAL CINEMA ESTE ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/9778.ts
+#EXTINF:-1 tvg-id="AztecaGuatemala.gt" tvg-name="UNIVERSAL CRIME CENTRO ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/universal-crime-hd.png" group-title="CINE / SERIES | HD",UNIVERSAL CRIME CENTRO ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/9777.ts
+#EXTINF:-1 tvg-id="AR - Studio Universal" tvg-name="STUDIO UNIVERSAL ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/studio-universal-hd.png" group-title="CINE / SERIES | HD",STUDIO UNIVERSAL ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/9780.ts
+#EXTINF:-1 tvg-id="UNIVERSAL PREMIERE MX" tvg-name="UNIVERSAL PREMIERE 1 ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/universal-premiere-hd.png" group-title="CINE / SERIES | HD",UNIVERSAL PREMIERE 1 ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/14491.ts
+#EXTINF:-1 tvg-id="AztecaGuatemala.gt" tvg-name="UNIVERSAL COMEDY ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/universal-comedy-hd.png" group-title="CINE / SERIES | HD",UNIVERSAL COMEDY ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/24328.ts
+#EXTINF:-1 tvg-id="AR - Studio Universal" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/studio-universal.png" group-title="CINE / SERIES | SD",STUDIO UNIVERSAL
+https://nxt.plus:8443/margaritaz/563329/43564.ts
+#EXTINF:-1 tvg-id="UNIVERSAL PREMIERE PY" tvg-name="UNIVERSAL PREMIERE OESTE ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/universal-premiere-hd.png" group-title="CINE / SERIES | HD",UNIVERSAL PREMIERE OESTE ᴴᴰ
+https://nxt.plus:8443/margaritaz/563329/167880.ts
+#EXTINF:-1 tvg-id="AztecaGuatemala.gt" tvg-name="UNIVERSAL" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/universal.png" group-title="CINE / SERIES | SD",UNIVERSAL
+https://nxt.plus:8443/margaritaz/563329/191456.ts
+#EXTINF:-1 tvg-id="Sky.Sports.16.mx" tvg-name="SKY SPORTS LALIGA" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/dazn-movistar-sky/sky-sports-laliga-hd.png" group-title="⭐⚽ DAZN / MOVISTAR / SKY",SKY SPORTS LALIGA
+https://nxt.plus:8443/margaritaz/563329/259100.ts
+#EXTINF:-1 tvg-id="DAZN.LALIGA.es" tvg-name="DAZN LALIGA 1" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/dazn-movistar-sky/dazn-laliga1-hd.png" group-title="⭐⚽ DAZN / MOVISTAR / SKY",DAZN LALIGA 1
+https://nxt.plus:8443/margaritaz/563329/259101.ts
+#EXTINF:-1 tvg-id="TUDN.us" tvg-name="TUDN | US" tvg-logo="" group-title="⭐⚽ DEPORTES",TUDN | US
+https://nxt.plus:8443/margaritaz/563329/259132.ts
+#EXTINF:-1 tvg-id="" tvg-name="#LIGA 1 MAX ᴴᴰ (OP1)" tvg-logo="https://www.lyngsat.com/logo/tv/ll/liga-1-max-pe.png" group-title="PERÚ",#LIGA 1 MAX ᴴᴰ (OP1)
+https://nxt.plus:8443/margaritaz/563329/265003.ts
+#EXTINF:-1 tvg-id="" tvg-name="CANAL 5 MX" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/mexico/canal-5-hd.png" group-title="MÉXICO",CANAL 5 MX
+https://nxt.plus:8443/margaritaz/563329/261819.ts
