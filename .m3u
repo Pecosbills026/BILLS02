@@ -49,14 +49,6 @@ https://nxt.plus:8443/margaritaz/563329/264933.ts
 https://nxt.plus:8443/margaritaz/563329/265501.ts
 #EXTINF:-1 tvg-id="" tvg-name="C4 EN ALERTA" tvg-logo="https://i.imgur.com/PBXp0Ot.png" group-title="MÉXICO",C4 EN ALERTA
 https://nxt.plus:8443/margaritaz/563329/265715.ts
-#EXTINF:-1 tvg-name="El último respiro (2025)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/yXSsRxw89KDfUs1mdyQuUDUTLvI.jpg" group-title="ESTRENOS 2025",El último respiro (2025)
-https://nxt.plus:8443/movie/margaritaz/563329/254553.mkv
-#EXTINF:-1 tvg-name="Dead Mail (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZultpdnzuCDAouwDs5ZYdkGGgT.jpg" group-title="CRIMEN",Dead Mail (2024)
-https://nxt.plus:8443/movie/margaritaz/563329/255967.mkv
-#EXTINF:-1 tvg-name="Dead Mail (2024)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/mZultpdnzuCDAouwDs5ZYdkGGgT.jpg" group-title="TERROR",Dead Mail (2024)
-https://nxt.plus:8443/movie/margaritaz/563329/255967.mkv
-#EXTINF:-1 tvg-name="La famosa invasion de los osos en Sicilia (2019)" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/fg2cvzyxjIG5QGogXAsXRTu45Xf.jpg" group-title="INFANTIL",La famosa invasion de los osos en Sicilia (2019)
-https://nxt.plus:8443/movie/margaritaz/563329/264808.mkv
 #EXTINF:-1 tvg-id="AR - Warner Channel" tvg-name="WARNER TV SUR ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/warner-channel-hd.png" group-title="CINE / SERIES | HD",WARNER TV SUR ᴴᴰ
 https://nxt.plus:8443/margaritaz/563329/1024.ts
 #EXTINF:-1 tvg-id="ParamountNetworkPanregional.us" tvg-name="PARAMOUNT NETWORK ᴴᴰ" tvg-logo="https://raw.githubusercontent.com/serviciovodflex/nxt-guide/main/img/cine-series/paramount-channel-hd.png" group-title="CINE / SERIES | HD",PARAMOUNT NETWORK ᴴᴰ
